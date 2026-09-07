@@ -1,0 +1,133 @@
+brand,name,group,origin_code,homepage,size_guide,systems,grid_count
+zara,Zara,Inditex,ES,https://zara.com,https://web.archive.org/web/20211012152902/https://www.zara.com/ar/es/product/108968753/size-guide,EU INT FR,3
+bershka,Bershka,Inditex,ES,https://bershka.com,https://static.bershka.net/4/static/itxwebstandard/config/size-guide-data.json,INT EU,4
+stradivarius,Stradivarius,Inditex,ES,https://stradivarius.com,https://web.archive.org/web/20260529060543/https://www.stradivarius.com/itxrest/2/marketing/store/55009600/50331078/spot?languageId=-42&locale=hu_HU&spot=ST3_ESpot_SizeGuide&appId=1,EU INT US UK,8
+massimo-dutti,Massimo Dutti,Inditex,ES,https://massimodutti.com,https://web.archive.org/web/20120124132357/http://static.massimodutti.net/3/static/HTML/images/sizeGuide/es/woman_inf.jpg,EU INT,3
+oysho,Oysho,Inditex,ES,https://oysho.com,https://www.oysho.com/integration/cms/api/materialized/page/size-measurements_family-trousers,INT EU,2
+lefties,Lefties,Inditex,ES,https://lefties.com,https://www.lefties.com/gb/page/sizeguide.html,EU INT,4
+hm,H&M,H&M Group,SE,https://hm.com,https://www.hm.com/ge/customer-service/sizeguide/ladies/,EU INT US UK,4
+cos,COS,H&M Group,SE,https://cos.com,https://th.cos.com/th_en/size-guide-see,EU INT UK FR IT,5
+monki,Monki,H&M Group,SE,https://monki.com,https://web.archive.org/web/20160216052023/http://www.monki.com/cz/Customer_Service/Size_Guide,EU UK FR,3
+weekday,Weekday,H&M Group,SE,https://weekday.com,https://web.archive.org/web/20210423031403/https://www.weekday.com/en_ch/help/help/size-guide-women.html,EU INT UK,3
+other-stories,& Other Stories,H&M Group,SE,https://stories.com,https://www.stories.com/en-ww/customer-service/size-guide/,EU INT,2
+arket,ARKET,H&M Group,SE,https://arket.com,https://www.arket.com/en-ww/customer-service/size-guide/women/,EU INT UK,3
+gu,GU,Fast Retailing,JP,https://gu-global.com,https://web.archive.org/web/20260210034517/https://www.gu-global.com/us/api/commerce/v5/en/products/size-charts?productIdsWithColorCode=E352464-000&imageRatio=3x4&includeBodyMeasurements=true&simpleSizeChart=true&httpFailure=true,INT,1
+reserved,Reserved,LPP,PL,https://reserved.com,https://www.reserved.com/gb/en/help-size-guide#section-she-2,EU INT US UK IT,5
+cropp,Cropp,LPP,PL,https://cropp.com,https://www.cropp.com/pl/pl/help-tabele-rozmiarowe,EU INT US UK,10
+house,House,LPP,PL,https://housebrand.com,https://www.housebrand.com/pl/pl/help-tabele-rozmiarowe,EU INT UK,5
+mohito,Mohito,LPP,PL,https://mohito.com,https://www.mohito.com/pl/pl/help-tabele-rozmiarowe,EU INT,2
+sinsay,Sinsay,LPP,PL,https://sinsay.com,https://www.sinsay.com/pl/pl/help-tabele-rozmiarowe,INT US,3
+befree,befree,Melon Fashion Group,RU,https://befree.ru,https://web.archive.org/web/20160314191930/http://www.befree.ru:80/service/size-chart/,EU INT RU,6
+zarina,ZARINA,Melon Fashion Group,RU,https://zarina.ru,https://web.archive.org/web/20191229073543/https://zarina.ru/about/size-chart,INT RU,2
+love-republic,LOVE REPUBLIC,Melon Fashion Group,RU,https://loverepublic.ru,https://web.archive.org/web/20201123163401/https://loverepublic.ru/information/size-table/,INT RU,2
+sela,Sela,Melon Fashion Group,RU,https://sela.ru,https://www.sela.ru/eshop/women/dzhinsy/bolshie-razmery/SL6803011403_2/,INT RU,4
+idol,IDOL,Melon Fashion Group,RU,https://idol.ru,https://idol.ru/product/plate-asimmetrichnoe-iz-100-viskozy-id6371874735-50/,INT RU,2
+jack-jones,Jack & Jones,Bestseller,DK,https://jackjones.com,https://www.jackjones.com/en-ge/content/size-guide,EU INT US,4
+vero-moda,Vero Moda,Bestseller,DK,https://veromoda.com,https://veromoda.com.au/pages/sizeguide,EU INT,2
+only,ONLY,Bestseller,DK,https://only.com,https://www.only.com,EU INT US UK,4
+selected,Selected Homme/Femme,Bestseller,DK,https://selected.com,https://support.selected.com/hc/en-gb/articles/10454827731601-Size-Guide,EU INT,2
+gloria-jeans,Gloria Jeans,,RU,https://gloria-jeans.ru,https://www.gloria-jeans.ru/sizes,RU,1
+ostin,O'STIN,,RU,https://ostin.com,https://ostin.com/pages/razmery_odezhdy,INT RU,6
+lime,LIME,,RU,https://lime-shop.com,https://web.archive.org/web/20240528003849/https://ae.lime-shop.com/pages/size-guide-table,EU INT,2
+12storeez,12 STOREEZ,,RU,https://12storeez.com,https://12storeez.com/catalog/plata/womencollection/plate-catroux-iz-shersti-s-shelkom-138956,INT RU,4
+baon,Baon,,RU,https://baon.ru,https://baon.ru/index/sizes/,INT EU RU,8
+finn-flare,Finn Flare,,RU,https://finn-flare.ru,https://www.finn-flare.ru/kak-vybrat-razmer/,INT RU,4
+zolla,Zolla,,RU,https://zolla.com,https://zolla.com/product/bryuki_zauzhennye_na_rezinke_s_podvorotami_bolshih_razmerov-brown,INT RU,2
+incity,Incity,,RU,https://incity.ru,https://incity.ru/upload/INCITY_таблица_размеров.pdf,EU INT RU US,4
+concept-club,Concept Club,,RU,https://conceptclub.ru,https://www.conceptclub.ru/static/concept/front/v2/img/sizetable/women-jeans.jpg,INT RU,4
+henderson,Henderson,,RU,https://henderson.ru,https://henderson.ru/sizes/HSS-0130/,INT RU,2
+kanzler,Kanzler,,RU,https://kanzler-style.ru,https://kanzler-style.ru/sizes/,INT RU,3
+ushatava,USHATAVA,,RU,https://ushatava.ru,https://www.ushatava.ru/store/w/catalog/platya/plate-basic-50-s-83561/,INT RU,2
+ecru,Ecru,,RU,https://ecru.ru,https://www.ecru.es/en/pages/size-guides,EU INT US UK FR IT,15
+mango,Mango,,ES,https://mango.com,https://shop.mango.com/gb/en/size-guide,UK,1
+desigual,Desigual,,ES,https://desigual.com,https://www.desigual.com/en_CA/men-size-guide/,INT IT JP,3
+bimba-y-lola,Bimba y Lola,,ES,https://bimbaylola.com,https://www.bimbaylola.com/us_en/info?aid=size-guide,EU,1
+springfield,Springfield,Tendam,ES,https://myspringfield.com,https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Page-Show?cid=size-chart-woman2-Springfield,INT,2
+cortefiel,Cortefiel,Tendam,ES,https://cortefiel.com,https://web.archive.org/web/20190817204430/https://cortefiel.com/be/en/men/suits/classic-fit-sizing-b-suit/1048090.html,EU INT,3
+sandro,Sandro,SMCP,FR,https://sandro-paris.com,https://www.sandro-paris.com.au/size-guide,EU INT US UK,11
+maje,Maje,SMCP,FR,https://maje.com,https://eu.maje.com/en/size-guide-for-clothes/sizeGuide_Clothes.html,EU INT UK FR IT,10
+claudie-pierlot,Claudie Pierlot,SMCP,FR,https://claudiepierlot.com,https://int.claudiepierlot.com/en/size-guide/sizeguide.html,FR,1
+ba-sh,ba&sh,,FR,https://ba-sh.com,https://ba-sh.com/size-guide,UK FR IT,3
+promod,Promod,,FR,https://promod.com,https://promod.com/en/help/size-chart/,EU INT,2
+jennyfer,Jennyfer,,FR,https://jennyfer.com,https://www.jennyfer.com/on/demandware.static/-/Sites-Jennyfer-EU-Library/en_GB/LandingPage/corner/inter/cornerInterTaillesHautes.jpg,INT FR,2
+kiabi,Kiabi,,FR,https://kiabi.com,https://www.kiabi.com/services/guide-des-tailles-femme.html,EU INT,2
+naf-naf,Naf Naf,,FR,https://nafnaf.com,https://web.archive.org/web/20190920000247/https://www.nafnaf.com/en_uk/size-guide/,EU UK FR,3
+etam,Etam,,FR,https://etam.com,https://int.etam.com/en/ETAM_SizeChart_EPAP.html,INT US,2
+lacoste,Lacoste,,FR,https://lacoste.com,https://www.lacoste.in/sizeguide,EU INT UK FR,5
+celio,Celio,,FR,https://celio.com,https://www.celio.com/fr-fr/femme/guide-taille/guide-des-tailles-tshirts-femme.html,INT,1
+decathlon,Decathlon,,FR,https://decathlon.com,https://decathlon.com/pages/size-guide,INT,4
+benetton,United Colors of Benetton,,IT,https://benetton.com,https://it.benetton.com/en/pages/sizeguide,INT IT,4
+calzedonia,Calzedonia,Calzedonia Group,IT,https://calzedonia.com,https://www.calzedonia.com/hk/en/product-guide-size.html,EU INT US IT,4
+intimissimi,Intimissimi,Calzedonia Group,IT,https://intimissimi.com,https://www.intimissimi.com/us/product-guide-size.html,EU INT US FR IT,6
+tezenis,Tezenis,Calzedonia Group,IT,https://tezenis.com,https://www.tezenis.com/si/size-guide.html,INT,1
+liu-jo,Liu Jo,,IT,https://liujo.com,https://www.liujo.com/int/size-guide?aid=size-guide__woman__dresses,INT IT,4
+twinset,TWINSET,,IT,https://twinset.com,https://web.archive.org/web/20170412232021/https://www.twinset.com/Home/Sizechart,EU INT UK FR,4
+max-mara,Max Mara,,IT,https://maxmara.com,https://us.maxmara.com/info/customer-care/size-guide,EU INT US UK FR IT,6
+marella,Marella,Max Mara Fashion Group,IT,https://marella.com,https://us.marella.com/info/need-help/size-guide,INT US UK IT,4
+diesel,Diesel,,IT,https://diesel.com,https://it.diesel.com/on/demandware.store/Sites-DieselIT-Site/it_IT/MeasuringGuide-Layer?measuringGuideName=dsl-bottom-men-01&sizeChartId=sizechart-dsl-bottom-men-01&fitguideVersion=enhanced&productID=00S7VG0670N&categoryID=diesel-man-denimandclothing-denim-skinny,UK,1
+ovs,OVS,,IT,https://ovs.it,https://www.ovs.it/it/it/p/abito-beige-in-tessuto-elasticizzato-con-stampa-floreale-002658477.html,IT EU INT,3
+esprit,Esprit,,DE,https://esprit.com,https://www.esprit.de/dw/image/.../size-chart/DE-de/Women/W1-oberteile.jpg,EU INT,4
+s-oliver,s.Oliver,,DE,https://soliver.com,https://www.soliver.de/groessenberatung/groessentabelle-damen/,EU INT,2
+tom-tailor,Tom Tailor,,DE,https://tom-tailor.com,https://www.tom-tailor.de/de/groessentabellen,EU INT UK,7
+marc-o-polo,Marc O'Polo,,DE,https://marc-o-polo.com,https://www.marc-o-polo.com/en-us/static/faq,EU INT IT,5
+hugo-boss,HUGO BOSS,,DE,https://hugoboss.com,https://web.archive.org/web/20201124111611/https://www.hugoboss.com/at/size-charts/womenswear-clothing/size-chart_HUGO_w1.html,EU US UK FR IT,5
+street-one,Street One,CBR Fashion,DE,https://street-one.com,https://web.archive.org/web/20240804015043/https://www.street-one.de/damen-beratung/groessenberatung/,EU INT,5
+bonprix,bonprix,Otto Group,DE,https://bonprix.ru,https://www.bonprix.fr/service-clients/guide-des-tailles/,EU US FR,6
+c-and-a,C&A,,DE,https://c-and-a.com,https://www.c-and-a.com/eu/en/shop/service/products-stock/size-guide,EU,2
+adidas,adidas,,DE,https://adidas.com,https://web.archive.org/web/20211228072849/https://www.adidas.ru/help/razmery/women,EU INT RU,3
+puma,PUMA,,DE,https://puma.com,https://web.archive.org/web/20231004095449/https://cl.puma.com/guia-de-tallas.html,INT,2
+asos,ASOS,,GB,https://asos.com,https://www.asos.com/discover/size-charts/women/dresses/,INT UK,3
+boohoo,boohoo,,GB,https://boohoo.com,https://www.boohoo.com/pages/informational/size-guide,US UK FR IT,4
+prettylittlething,PrettyLittleThing,,GB,https://prettylittlething.com,https://www.prettylittlething.com/pages/informational/size-guide?refreshed=1,US UK FR,3
+next,Next,,GB,https://next.co.uk,https://www.next.co.uk/sizeguide,INT UK,2
+marks-spencer,Marks & Spencer,,GB,https://marksandspencer.com,https://www.marksandspencer.com/mv/sizeguides/?cid=sizeguidewomens-general,EU US UK,3
+river-island,River Island,,GB,https://riverisland.com,https://www.riverisland.com/how-can-we-help/size-guides/womens,EU INT US UK FR IT,6
+new-look,New Look,,GB,https://newlook.com,https://www.newlook.com/uk/help/product-information/size-guides,UK,1
+topshop,Topshop,,GB,https://topshop.com,https://www.topshop.com/gb/product/topshop-cotton-deep-v-lace-trapeze-mini-dress-in-washed-lime/209582936,UK,1
+reiss,Reiss,,GB,https://reiss.com,https://www.reiss.com/size-guide,INT UK,2
+ted-baker,Ted Baker,,GB,https://tedbaker.com,https://www.tedbaker.com/apps/sizings?id=50695173,INT UK,2
+karen-millen,Karen Millen,,GB,https://karenmillen.com,https://www.karenmillen.com/pages/informational/size-guide,EU INT US UK FR IT,6
+primark,Primark,,IE,https://primark.com,https://www.primark.com/en-gb/size-charts/men,INT,2
+nike,Nike,,US,https://nike.com,https://img.nike.com.hk/resources/sizecart/womens-tops-sizing-chart_en.html,EU INT UK FR IT,5
+gap,GAP,Gap Inc.,US,https://gap.com,https://www.gap.com/Asset_Archive/AllBrands/sizeChart/v3/chart.html?cid=2082,US,1
+old-navy,Old Navy,Gap Inc.,US,https://oldnavy.gap.com,https://oldnavy.gap.com/Asset_Archive/AllBrands/sizeChart/v3/chart.html?cid=3104&locale=en_US,INT US,2
+banana-republic,Banana Republic,Gap Inc.,US,https://bananarepublic.gap.com,https://bananarepublic.gap.com/Asset_Archive/AllBrands/sizeChart/v3/division-chart.html?division=women,INT,2
+american-eagle,American Eagle,,US,https://ae.com,https://www.aeo.co.uk/pages/size-guide-womens-bottoms-centimeters,EU INT US UK FR IT,6
+aerie,Aerie,American Eagle Outfitters,US,https://aerie.com,https://www.aeo.eu/en-roe/pages/size-guide-women-aerie-bottoms-alpha-centimeters,INT,1
+hollister,Hollister,Abercrombie & Fitch,US,https://hollisterco.com,https://web.archive.org/web/20150801004038/http://eu.hollisterco.com:80/hol/faq/sizecharts.html,INT US,5
+levis,Levi's,,US,https://levi.com,https://www.levi.com/US/en_US/info/sizeguide,INT US UK,10
+wrangler,Wrangler,Kontoor Brands,US,https://wrangler.com,https://www.wrangler.com/size-charts.html,INT US UK,5
+lee,Lee,Kontoor Brands,US,https://lee.com,https://www.lee.com/size-charts.html,INT US UK,3
+calvin-klein,Calvin Klein,PVH,US,https://calvinklein.com,https://tr.calvinklein.com/kurumsal/underwear-swimwear-beden-tablosu,EU INT US FR IT,8
+tommy-hilfiger,Tommy Hilfiger,PVH,US,https://tommy.com,https://usa.tommy.com/en/size-guide-women.html,EU INT US,3
+ralph-lauren,Polo Ralph Lauren,,US,https://ralphlauren.com,https://www.ralphlauren.com/size-guide/size-guide.html,INT US,3
+guess,GUESS,,US,https://guess.com,https://www.guess.com/en-us/guidesandsizecharts.html,INT US,2
+victorias-secret,Victoria's Secret,,US,https://victoriassecret.com,https://www.victoriassecret.co.uk/sizeguide,UK,1
+urban-outfitters,Urban Outfitters,,US,https://urbanoutfitters.com,https://www.urbanoutfitters.com/help/size-charts,EU INT US UK FR IT,11
+michael-kors,Michael Kors,,US,https://michaelkors.com,https://www.michaelkors.fr/on/demandware.store/Sites-mk_fr-Site/fr_FR/SizeGuide-Show?cid=womens-clothing,INT US UK FR,6
+columbia,Columbia,,US,https://columbia.com,https://www.columbia.com/t/size-fit/,INT US UK,5
+patagonia,Patagonia,,US,https://patagonia.com,https://www.patagonia.com/guides/size-fit/mens/,INT UK,2
+the-north-face,The North Face,VF Corporation,US,https://thenorthface.com,https://www.thenorthface.com/en-us/help/size-charts?category=men%27s&product=socks,INT UK,3
+under-armour,Under Armour,,US,https://underarmour.com,https://web.archive.org/web/20230111075403/https://www.underarmour.eu/en-be/t/sizechart-women-bottoms.html,INT US,2
+new-balance,New Balance,,US,https://newbalance.com,https://web.archive.org/web/20260305084129/https://www.newbalance.co.uk/customercare-storefront-sizeguide-apparel.html,EU INT UK,4
+lululemon,lululemon,,CA,https://lululemon.com,https://www.eu.lululemon.com/on/demandware.store/Sites-EU-Site/en_LU/Page-SizeGuide?cid=global-all-size-guide&ajax=true#menshorts,EU INT US UK FR IT JP,7
+madewell,Madewell,,US,https://madewell.com,https://www.madewell.com/dresses-SizeChart.html,US,2
+j-crew,J.Crew,,US,https://jcrew.com,https://www.jcrew.com/r/size-charts,INT US,2
+lindex,Lindex,,SE,https://lindex.com,https://www.lindex.com/si/size-guides,EU INT UK,3
+gina-tricot,Gina Tricot,,SE,https://ginatricot.com,https://web.archive.org/web/20190826044607/https://www.ginatricot.com/no/size-guide,EU INT,2
+bik-bok,Bik Bok,Varner,NO,https://bikbok.com,https://bikbok.com/en/corporate/vilkar-og-betingelser/size-guides/sizeguide/,EU INT,2
+cubus,Cubus,Varner,NO,https://cubus.com,https://cubus.com/sv/foretaginfo/kundservice/storleksguide/storleksguide-dam/,EU INT UK,4
+lc-waikiki,LC Waikiki,,TR,https://lcwaikiki.com,https://web.archive.org/web/20240614065548/https://www.lcw.com/statik/bedentablosu,EU INT,2
+koton,Koton,,TR,https://koton.com,https://www.koton.com/size-chart,EU INT UK,4
+defacto,DeFacto,,TR,https://defacto.com,https://www.defacto.com/en-ma/static/size-charts,EU INT US UK FR IT,9
+mavi,Mavi,,TR,https://mavi.com,https://web.archive.org/web/20220122091805/https://ru.mavi.com/tablica-razmerov/,EU INT US UK,5
+muji,MUJI,,JP,https://muji.com,https://onlineshop.muji.com.hk/en/pages/size-chart-2,EU INT,2
+asics,ASICS,,JP,https://asics.com,https://web.archive.org/web/20201130120654/https://www.asics.com/au/en-au/customer-service/size-guide/size-guide.html,INT UK,3
+mizuno,Mizuno,,JP,https://mizuno.com,https://emea.mizuno.com/eu/en/sizeguide-page.html,INT,2
+8seconds,8seconds,Samsung C&T,KR,https://8seconds.co.kr,https://web.archive.org/web/20150521065905/http://www.8seconds.co.kr:80/app.good.GoodAction.getLayerPopupSizeGuide.top,EU INT US UK,8
+urban-revivo,Urban Revivo,,CN,https://urbanrevivo.com,https://global.urbanrevivo.com/pages/size-and-fit-guide,INT EU US UK IT FR,10
+anta,ANTA,,CN,https://anta.com,https://anta.com/pages/anta-tops-size-guide,INT,3
+kappa,Kappa,,IT,https://kappa.com,https://www.kappa.com/en-int/pages/mens-size-guide,EU FR IT,6
+fila,FILA,,IT,https://fila.com,https://fila.co.za/pages/size-guide,INT,2
+reebok,Reebok,,US,https://reebok.com,https://www.reebok.ae/pages/reebok-womens-apparels-size-chart,INT,1
+triumph,Triumph,,DE,https://triumph.com,https://nz.triumph.com/pages/size-charts,EU INT UK,3

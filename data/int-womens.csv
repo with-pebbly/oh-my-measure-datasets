@@ -1,0 +1,7 @@
+label,alpha,bust_low_cm,bust_high_cm,waist_low_cm,waist_high_cm,hip_low_cm,hip_high_cm
+XS,XS,74,81,58,64,80,89
+S,S,82,89,65,72,90,97
+M,M,90,97,73,81,98,104
+L,L,98,107,82,90,105,112
+XL,XL,108,119,91,102,113,122
+XXL,XXL,120,131,103,114,123,134

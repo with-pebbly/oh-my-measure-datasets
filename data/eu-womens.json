@@ -1,0 +1,180 @@
+{
+	"basis": "standard",
+	"confidence": "medium",
+	"contentHash": "2a16666dfd417449",
+	"cut": "womens",
+	"id": "eu-womens",
+	"provenance": {
+		"de": "Die Umfänge sind die Leiter der EN 13402-3 in 4-cm-Schritten (ein Band von ±2 cm um den Nennwert). Die Größenzahl ist die deutsche Konfektionsgrößen-Konvention, Größe = Brustumfang ÷ 2 − 6; die Norm selbst druckt den Umfang in Zentimetern, nicht die Zahl. Die Reihe ist die deutsche: die französische liegt am selben Körper etwa +2, die italienische etwa +6. VORBEHALT: Der europäische Handel schneidet einen halben Schritt größer. Ein Abgleich mit 25–47 Markentabellen je Größe (EVID-082) ergab systematische +2 cm — das mittlere Markenband für eine 36 läuft von 84–88 cm, unseres von 82–86. Welche Angabe „richtig“ ist, entscheidet die Messung nicht; bei einem Umfang in der oberen Hälfte des Bandes nennt ein Geschäft aber eine Größe unter unserer.",
+		"en": "Girths are the EN 13402-3 ladder in 4 cm steps (a ±2 cm band around the nominal value). The size number is the German convention, size = bust girth ÷ 2 − 6; the standard itself prints the girth in centimetres, not the number. The run is German: French is roughly +2 and Italian roughly +6 on the same body. CAVEAT: European retail cuts half a step larger. A check against 25–47 brand tables per label (EVID-082) found a systematic +2 cm — the median brand band for a 36 runs 84–88 cm where ours runs 82–86. The measurement cannot say which is “right”; but with a girth in the upper half of a band, a shop will name a size one step below ours.",
+		"fr": "Les tours sont l’échelle de la EN 13402-3 par pas de 4 cm (une bande de ±2 cm autour de la valeur nominale). Le numéro de taille suit la convention allemande, taille = tour de poitrine ÷ 2 − 6 ; la norme elle-même imprime le tour en centimètres, pas le numéro. La série est allemande : la française se situe à environ +2 et l’italienne à environ +6 sur le même corps. RÉSERVE : le commerce européen coupe un demi-pas plus grand. Une vérification sur 25 à 47 tableaux de marques par étiquette (EVID-082) a donné des écarts systématiques de +2 cm — la bande médiane des marques pour un 36 va de 84 à 88 cm, la nôtre de 82 à 86. La mesure ne dit pas qui a « raison » ; mais avec un tour dans la moitié supérieure d’une bande, un magasin annoncera une taille en dessous de la nôtre.",
+		"ru": "Обхваты — лестница EN 13402-3 с шагом 4 см (полоса ±2 см вокруг номинала). Номер размера — германская конвенция «размер = обхват груди ÷ 2 − 6»; сам стандарт печатает не номер, а обхват в сантиметрах. Ряд — германский: французский примерно +2, итальянский примерно +6 на том же теле. ОГОВОРКА: европейская розница шьёт на полшага крупнее. Сверка с 25–47 брендовыми таблицами на метку (EVID-082) дала систематические +2 см — медианная полоса бренда для 36-го идёт 84–88 см, наша 82–86. Кто «прав», замер не решает; но с обхватом в верхней половине полосы магазин назовёт размер на шаг меньше нашего."
+	},
+	"rows": [
+		{
+			"bust": [
+				74,
+				78
+			],
+			"hip": [
+				80,
+				84
+			],
+			"label": "32",
+			"waist": [
+				56,
+				60
+			]
+		},
+		{
+			"bust": [
+				78,
+				82
+			],
+			"hip": [
+				84,
+				88
+			],
+			"label": "34",
+			"waist": [
+				60,
+				64
+			]
+		},
+		{
+			"bust": [
+				82,
+				86
+			],
+			"hip": [
+				88,
+				92
+			],
+			"label": "36",
+			"waist": [
+				64,
+				68
+			]
+		},
+		{
+			"bust": [
+				86,
+				90
+			],
+			"hip": [
+				92,
+				96
+			],
+			"label": "38",
+			"waist": [
+				68,
+				72
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"hip": [
+				96,
+				100
+			],
+			"label": "40",
+			"waist": [
+				72,
+				76
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"hip": [
+				100,
+				104
+			],
+			"label": "42",
+			"waist": [
+				76,
+				80
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"hip": [
+				104,
+				108
+			],
+			"label": "44",
+			"waist": [
+				80,
+				84
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"hip": [
+				108,
+				112
+			],
+			"label": "46",
+			"waist": [
+				84,
+				88
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "EN 13402-1/-2/-3 — über https://en.wikipedia.org/wiki/EN_13402 (die Maßleiter und der Klassenschritt)",
+				"en": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)",
+				"fr": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (l’échelle des tours et le pas de classe)",
+				"ru": "EN 13402-1/-2/-3 — через https://en.wikipedia.org/wiki/EN_13402 (лестница обхватов и шаг классов)"
+			},
+			"url": "https://en.wikipedia.org/wiki/EN_13402"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — die deutsche Konvention und ihre Formel",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — la convention allemande et sa formule",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — германская конвенция и её формула"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://de.wikipedia.org/wiki/Konfektionsgröße — dieselbe Formel und ihre Ankerzeilen",
+				"en": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows",
+				"fr": "https://de.wikipedia.org/wiki/Konfektionsgröße — la même formule et ses lignes de référence",
+				"ru": "https://de.wikipedia.org/wiki/Konfektionsgröße — та же формула и опорные строки"
+			},
+			"url": "https://de.wikipedia.org/wiki/Konfektionsgröße"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Shirt_size — Kragenweite in Zentimetern",
+				"en": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres",
+				"fr": "https://en.wikipedia.org/wiki/Shirt_size — encolure en centimètres",
+				"ru": "https://en.wikipedia.org/wiki/Shirt_size — воротник в сантиметрах"
+			},
+			"url": "https://en.wikipedia.org/wiki/Shirt_size"
+		}
+	],
+	"system": "EU",
+	"unit": "cm",
+	"version": 1
+}

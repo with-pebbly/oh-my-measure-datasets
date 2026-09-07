@@ -1,0 +1,192 @@
+{
+	"basis": "standard",
+	"confidence": "high",
+	"contentHash": "fc452a67fb9c546f",
+	"id": "ru-kids-standard",
+	"key": "stature",
+	"provenance": {
+		"de": "Die russische Größenleiter: die Kennzeichnung ist die Körperhöhe einer typischen Figur in Zentimetern, und das Band um sie herum ist die Hälfte des 6-cm-Schritts der Leiter nach jeder Seite. Einen Brustumfang bindet die Norm nicht an die Körperhöhe: zu einer Höhe nennt sie mehrere typische Figuren — gezeigt werden sie auf der Karte unter der Leiter.",
+		"en": "The Russian standard height ladder: the label is a typical figure’s body height in centimetres, and the band around it is half of the ladder’s own 6 cm step on each side. The standard does not tie a chest girth to a height: at one height it names several typical figures — the typical-figure card below the ladder is where those are shown.",
+		"fr": "L’échelle de stature russe : l’étiquette est la stature d’une silhouette type en centimètres, et la bande autour d’elle représente la moitié du pas de 6 cm de l’échelle, de chaque côté. La norme ne lie pas le tour de poitrine à la stature : à une même stature, elle nomme plusieurs silhouettes types — c’est la fiche de la silhouette type sous l’échelle qui les montre.",
+		"ru": "Ростовка по российскому стандарту: метка — рост типовой фигуры в сантиметрах, полоса вокруг неё — половина шестисантиметрового шага ростовки в каждую сторону. Обхват груди стандарт к ростовке не привязывает: при одном росте он называет несколько типовых фигур — их показывает карточка типовой фигуры под лестницей."
+	},
+	"rows": [
+		{
+			"label": "62",
+			"stature": [
+				59,
+				65
+			]
+		},
+		{
+			"label": "68",
+			"stature": [
+				65,
+				71
+			]
+		},
+		{
+			"label": "74",
+			"stature": [
+				71,
+				77
+			]
+		},
+		{
+			"label": "80",
+			"stature": [
+				77,
+				83
+			]
+		},
+		{
+			"label": "86",
+			"stature": [
+				83,
+				89
+			]
+		},
+		{
+			"label": "92",
+			"stature": [
+				89,
+				95
+			]
+		},
+		{
+			"label": "98",
+			"stature": [
+				95,
+				101
+			]
+		},
+		{
+			"label": "104",
+			"stature": [
+				101,
+				107
+			]
+		},
+		{
+			"label": "110",
+			"stature": [
+				107,
+				113
+			]
+		},
+		{
+			"label": "116",
+			"stature": [
+				113,
+				119
+			]
+		},
+		{
+			"label": "122",
+			"stature": [
+				119,
+				125
+			]
+		},
+		{
+			"label": "128",
+			"stature": [
+				125,
+				131
+			]
+		},
+		{
+			"label": "134",
+			"stature": [
+				131,
+				137
+			]
+		},
+		{
+			"label": "140",
+			"stature": [
+				137,
+				143
+			]
+		},
+		{
+			"label": "146",
+			"stature": [
+				143,
+				149
+			]
+		},
+		{
+			"label": "152",
+			"stature": [
+				149,
+				155
+			]
+		},
+		{
+			"label": "158",
+			"stature": [
+				155,
+				161
+			]
+		},
+		{
+			"label": "164",
+			"stature": [
+				161,
+				167
+			]
+		},
+		{
+			"label": "170",
+			"stature": [
+				167,
+				173
+			]
+		},
+		{
+			"label": "176",
+			"stature": [
+				173,
+				179
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": "2026-09-03",
+			"text": {
+				"de": "https://allgosts.ru/61/020/gost_32119-2013 — erfasst am 2026-09-03: russische Norm 32119-2013, Körperhöhen 62–98",
+				"en": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-03: Russian standard 32119-2013, heights 62–98",
+				"fr": "https://allgosts.ru/61/020/gost_32119-2013 — capturé le 2026-09-03 : norme russe 32119-2013, statures 62–98",
+				"ru": "https://allgosts.ru/61/020/gost_32119-2013 — снято 2026-09-03: российский стандарт 32119-2013, роста 62–98"
+			},
+			"url": "https://allgosts.ru/61/020/gost_32119-2013"
+		},
+		{
+			"checkedOn": "2026-09-03",
+			"text": {
+				"de": "https://allgosts.ru/61/020/gost_17916-86 — erfasst am 2026-09-03: russische Norm 17916-86, typische Figuren von Mädchen",
+				"en": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03: Russian standard 17916-86, typical figures of girls",
+				"fr": "https://allgosts.ru/61/020/gost_17916-86 — capturé le 2026-09-03 : norme russe 17916-86, silhouettes types des filles",
+				"ru": "https://allgosts.ru/61/020/gost_17916-86 — снято 2026-09-03: российский стандарт 17916-86, типовые фигуры девочек"
+			},
+			"url": "https://allgosts.ru/61/020/gost_17916-86"
+		},
+		{
+			"checkedOn": "2026-09-03",
+			"text": {
+				"de": "https://allgosts.ru/61/020/gost_17917-86 — erfasst am 2026-09-03: russische Norm 17917-86, typische Figuren von Jungen",
+				"en": "https://allgosts.ru/61/020/gost_17917-86 — captured 2026-09-03: Russian standard 17917-86, typical figures of boys",
+				"fr": "https://allgosts.ru/61/020/gost_17917-86 — capturé le 2026-09-03 : norme russe 17917-86, silhouettes types des garçons",
+				"ru": "https://allgosts.ru/61/020/gost_17917-86 — снято 2026-09-03: российский стандарт 17917-86, типовые фигуры мальчиков"
+			},
+			"url": "https://allgosts.ru/61/020/gost_17917-86"
+		}
+	],
+	"system": "RU",
+	"units": {
+		"stature": "cm"
+	},
+	"version": 1
+}

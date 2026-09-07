@@ -1,0 +1,33 @@
+{
+	"basis": "standard",
+	"chestGirth": "horizontal",
+	"confidence": "high",
+	"contentHash": "e8cd9e6d771d516a",
+	"id": "gost-32119-girls",
+	"provenance": {
+		"de": "russische Norm 32119-2013 „Erzeugnisse für Neugeborene und Kleinkinder“, Tabelle 1. Der Brustumfang ist hier der WAAGERECHTE — ein anderes Maß als der dritte Brustumfang in den Normen 17916/17917, Zahlen dürfen zwischen beiden nicht übertragen werden. Die Tabelle ist auf „Körperhöhe → Umfänge“ gedreht; die Quelle druckt sie andersherum.",
+		"en": "Russian standard 32119-2013 “Garments for newborns and toddlers”, table 1. Chest girth here is the HORIZONTAL one — a different measurement from the third chest girth in standards 17916/17917, and numbers cannot be carried between them. The table is transposed to height → girths; the source prints it the other way.",
+		"fr": "norme russe 32119-2013 « Vêtements pour nouveau-nés et enfants en bas âge », tableau 1. Le tour de poitrine est ici le tour HORIZONTAL — une mesure différente du troisième tour de poitrine dans les normes 17916/17917, et les chiffres ne sont pas transposables entre les deux. Le tableau est retourné en « stature → tours » : la source l’imprime dans l’autre sens.",
+		"ru": "российский стандарт 32119-2013 «Изделия для новорожденных и детей ясельной группы», таблица 1. Обхват груди здесь ГОРИЗОНТАЛЬНЫЙ — это другая мера, чем обхват груди третий в стандартах 17916/17917, и переносить числа между ними нельзя. Таблица развёрнута «рост → обхваты»: источник печатает наоборот."
+	},
+	"sex": "girls",
+	"sources": [
+		{
+			"checkedOn": "2026-09-04",
+			"text": {
+				"de": "https://allgosts.ru/61/020/gost_32119-2013 — erfasst am 2026-09-04",
+				"en": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-04",
+				"fr": "https://allgosts.ru/61/020/gost_32119-2013 — capturé le 2026-09-04",
+				"ru": "https://allgosts.ru/61/020/gost_32119-2013 — снято 2026-09-04"
+			},
+			"url": "https://allgosts.ru/61/020/gost_32119-2013"
+		}
+	],
+	"units": {
+		"age": "years",
+		"chest": "cm",
+		"stature": "cm",
+		"waist": "cm"
+	},
+	"version": 1
+}

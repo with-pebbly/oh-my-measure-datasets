@@ -1,0 +1,1605 @@
+{
+	"description": "15 adult body size grids (EU, FR, INT, IT, JP, RU, UK, US), women’s and men’s cuts, plus 2 children’s stature ladders. 9 are derived from Wikipedia articles and inherit CC BY-SA 4.0 (see /NOTICE.txt); 4 are the project’s own synthesis of retail conventions, released under the same licence by the owner’s decision (ADR-029); 2 are transcriptions of national standards, released under the same licence with the legal risk accepted explicitly and revocably (ADR-030). The 2 children’s ladders (EU, RU) are keyed by stature rather than girth and transcribe children’s national standards (GOST 17916-86 / 17917-86 and EN 13402), on the same basis. A third record shape: 2 GOST typical-figure spaces (a sparse (stature × chest × fullness) matrix, flattened to one row per combination the standard actually names) and 2 GOST 32119 infant ladders. Their chest girths are NOT the same measurement — the figure spaces use the THIRD girth (over the bust points), the infant ladders the HORIZONTAL one (across the shoulder blades); the column names say which, and merging them would be nonsense. Excludes 496 brand tables and brand children’s ladders — see README.txt.",
+	"homepage": "https://ohmymeasure.pebbly.space/sources",
+	"keywords": [
+		"body measurements",
+		"size chart",
+		"clothing sizes",
+		"apparel",
+		"anthropometry",
+		"children sizes",
+		"eu sizes",
+		"fr sizes",
+		"int sizes",
+		"it sizes",
+		"jp sizes",
+		"ru sizes",
+		"uk sizes",
+		"us sizes"
+	],
+	"licenses": [
+		{
+			"name": "CC-BY-SA-4.0",
+			"path": "https://creativecommons.org/licenses/by-sa/4.0/",
+			"title": "Creative Commons Attribution-ShareAlike 4.0 International"
+		}
+	],
+	"name": "oh-my-measure-size-grids",
+	"resources": [
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:33a4d2f5705256a61aed681c206f54f8696f3ff22ba595b67b96c50cc40cc7ce",
+			"mediatype": "text/csv",
+			"name": "eu-mens",
+			"path": "eu-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Shirt_size",
+					"title": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:7021b57c4e22ef23465a3dd12c344e547de3bb3bedaed491c9002e9563f98e89",
+			"mediatype": "application/json",
+			"name": "eu-mens-json",
+			"path": "eu-mens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Shirt_size",
+					"title": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:4c48e23121fb09812617016aa0e38da01d81e270f2a3074c14887cbda9bb3ad6",
+			"mediatype": "text/csv",
+			"name": "eu-womens",
+			"path": "eu-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Shirt_size",
+					"title": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:aca906db53c765af0b26e22db614a94cd0756d35fe7558db8cc258dad911b693",
+			"mediatype": "application/json",
+			"name": "eu-womens-json",
+			"path": "eu-womens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Shirt_size",
+					"title": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:33a4d2f5705256a61aed681c206f54f8696f3ff22ba595b67b96c50cc40cc7ce",
+			"mediatype": "text/csv",
+			"name": "fr-mens",
+			"path": "fr-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:d75e362d9fdfdceafd10d20493d784ecfd548e8200df6a225a89353782962754",
+			"mediatype": "application/json",
+			"name": "fr-mens-json",
+			"path": "fr-mens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:d2b5f781b4f7f9ea6d1c1e0248700c32b2b89eef8d78093ea33702109307c7af",
+			"mediatype": "text/csv",
+			"name": "fr-womens",
+			"path": "fr-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:d507e525fbf9b5df5d1816266732e97400e24c39bee93cc5a8aa77cc1e5adde8",
+			"mediatype": "application/json",
+			"name": "fr-womens-json",
+			"path": "fr-womens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:1736ae408907749ce02df82108037d23bcee8e41a112f74ff48c2d4d95f7de9d",
+			"mediatype": "text/csv",
+			"name": "int-mens",
+			"path": "int-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Буквенный эквивалент (S/M/L…) там, где источник публикует его отдельно от label",
+						"name": "alpha",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Women's clothing sizes (DE/AT/NL/SE/DK)” table: the International row above the girth columns"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's clothing sizes (AT/DE/NL/DK/SE/FI)” table: the same structure for the men's run"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table (the lettered collar run)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:a94a2ac68ba59b92e694692294de48246d89060bd6f4f35beda387c642ed0643",
+			"mediatype": "application/json",
+			"name": "int-mens-json",
+			"path": "int-mens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Women's clothing sizes (DE/AT/NL/SE/DK)” table: the International row above the girth columns"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's clothing sizes (AT/DE/NL/DK/SE/FI)” table: the same structure for the men's run"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table (the lettered collar run)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:a9eadb75819bb262336a3ec66a81a53cbd29c5670e86ee6d6dc80748c4a317cc",
+			"mediatype": "text/csv",
+			"name": "int-womens",
+			"path": "int-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Буквенный эквивалент (S/M/L…) там, где источник публикует его отдельно от label",
+						"name": "alpha",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Women's clothing sizes (DE/AT/NL/SE/DK)” table: the International row above the girth columns"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's clothing sizes (AT/DE/NL/DK/SE/FI)” table: the same structure for the men's run"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table (the lettered collar run)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:421eb4c496b53836500a134ff4e83a6c33d7937b3bddd2552de43ead47fd786c",
+			"mediatype": "application/json",
+			"name": "int-womens-json",
+			"path": "int-womens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Women's clothing sizes (DE/AT/NL/SE/DK)” table: the International row above the girth columns"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's clothing sizes (AT/DE/NL/DK/SE/FI)” table: the same structure for the men's run"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table (the lettered collar run)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:33a4d2f5705256a61aed681c206f54f8696f3ff22ba595b67b96c50cc40cc7ce",
+			"mediatype": "text/csv",
+			"name": "it-mens",
+			"path": "it-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:7148863ab8b8a99ab2b17c8f5cab11a0aa08d7302b1e7aabfceff62b2fafb7c4",
+			"mediatype": "application/json",
+			"name": "it-mens-json",
+			"path": "it-mens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:8c52b3d71c9b75c5f215aef3934516e984c9cceda44968171d41c8216e12e435",
+			"mediatype": "text/csv",
+			"name": "it-womens",
+			"path": "it-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:81481c9ed3ec7eb6ce950aefc159a9d56a23778bd118a51c3df18fc14217bcf9",
+			"mediatype": "application/json",
+			"name": "it-womens-json",
+			"path": "it-womens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+				},
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/EN_13402",
+					"title": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:26d203f8a6fdfa37784b23dc119979e570a6eb4970f952d38d1305016a0f5d91",
+			"mediatype": "text/csv",
+			"name": "jp-womens",
+			"path": "jp-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Japanese dresses sizes (JIS L 4005:2001)” table: size number and bust girth"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the length (PP/P/R/T) and fullness (Y/A/AB/B) modifier tables, with 13-B-T worked through"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table: the UK / EU / Japan collar run is shared"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:d49074e88c6f75f5670a97b59d45ee060a8423412af0448dc8e0d6552b34cc50",
+			"mediatype": "application/json",
+			"name": "jp-womens-json",
+			"path": "jp-womens.json",
+			"sources": [
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Japanese dresses sizes (JIS L 4005:2001)” table: size number and bust girth"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the length (PP/P/R/T) and fullness (Y/A/AB/B) modifier tables, with 13-B-T worked through"
+				},
+				{
+					"path": "https://en.wikipedia.org/wiki/Clothing_sizes",
+					"title": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table: the UK / EU / Japan collar run is shared"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:87db7efba4c0709c44ca2b1ce4b8cd4e0e4d905bd2bcc831c27b9ccc74c04422",
+			"mediatype": "text/csv",
+			"name": "uk-mens",
+			"path": "uk-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide",
+					"title": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:d99f5b3a5c91fd814da6ee928d68a0463b384030a21df102d806051fb21c39f1",
+			"mediatype": "application/json",
+			"name": "uk-mens-json",
+			"path": "uk-mens.json",
+			"sources": [
+				{
+					"path": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide",
+					"title": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:c0330f7c520bf7c852e162399e5ceaf8faf15167cf220225fbc28e236ea37235",
+			"mediatype": "text/csv",
+			"name": "uk-womens",
+			"path": "uk-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://www.asos.com/discover/size-charts/women/",
+					"title": "https://www.asos.com/discover/size-charts/women/ — ASOS"
+				},
+				{
+					"path": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides",
+					"title": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next"
+				},
+				{
+					"path": "https://www.prettylittlething.com/pages/informational/size-guide",
+					"title": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing"
+				},
+				{
+					"path": "https://www.fatface.com/size-guide",
+					"title": "https://www.fatface.com/size-guide — FatFace"
+				},
+				{
+					"path": "https://www.hobbs.com/size-guide",
+					"title": "https://www.hobbs.com/size-guide — Hobbs"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:f6d7af245e05159d7e5016860e77f374a98befa90f46bdc6f4ef07e7c2e09d3d",
+			"mediatype": "application/json",
+			"name": "uk-womens-json",
+			"path": "uk-womens.json",
+			"sources": [
+				{
+					"path": "https://www.asos.com/discover/size-charts/women/",
+					"title": "https://www.asos.com/discover/size-charts/women/ — ASOS"
+				},
+				{
+					"path": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides",
+					"title": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next"
+				},
+				{
+					"path": "https://www.prettylittlething.com/pages/informational/size-guide",
+					"title": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing"
+				},
+				{
+					"path": "https://www.fatface.com/size-guide",
+					"title": "https://www.fatface.com/size-guide — FatFace"
+				},
+				{
+					"path": "https://www.hobbs.com/size-guide",
+					"title": "https://www.hobbs.com/size-guide — Hobbs"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:13ef5f9caf2ae9d239ebec1430ed9f8abfde3214453e8040be51c14268e93d67",
+			"mediatype": "text/csv",
+			"name": "us-mens",
+			"path": "us-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://www.duluthtrading.com/",
+					"title": "https://www.duluthtrading.com/ — Duluth Trading (tops and trousers charts)"
+				},
+				{
+					"title": "ASTM D6240 — not available (paywall)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:5acd7f8ff5c3a6bf848d2956cd3487e016d3d31d747a0ee2232035e06172f1c0",
+			"mediatype": "application/json",
+			"name": "us-mens-json",
+			"path": "us-mens.json",
+			"sources": [
+				{
+					"path": "https://www.duluthtrading.com/",
+					"title": "https://www.duluthtrading.com/ — Duluth Trading (tops and trousers charts)"
+				},
+				{
+					"title": "ASTM D6240 — not available (paywall)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:49877a1cff669ac53782312b964253f1b441024daece2d66e73bbb157d7a330d",
+			"mediatype": "text/csv",
+			"name": "us-womens",
+			"path": "us-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://www.talbots.com/size-charts/size-charts.html",
+					"title": "https://www.talbots.com/size-charts/size-charts.html — Talbots"
+				},
+				{
+					"path": "https://draperjames.com/pages/size-chart",
+					"title": "https://draperjames.com/pages/size-chart — Draper James"
+				},
+				{
+					"title": "ASTM D5585 — only one row (size 12) is available through a secondary source; astm.org returns 403"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:414406cf4e6b18d0539842bbf32122e1ed95136c91add815d20f40eaf34cc7b8",
+			"mediatype": "application/json",
+			"name": "us-womens-json",
+			"path": "us-womens.json",
+			"sources": [
+				{
+					"path": "https://www.talbots.com/size-charts/size-charts.html",
+					"title": "https://www.talbots.com/size-charts/size-charts.html — Talbots"
+				},
+				{
+					"path": "https://draperjames.com/pages/size-chart",
+					"title": "https://draperjames.com/pages/size-chart — Draper James"
+				},
+				{
+					"title": "ASTM D5585 — only one row (size 12) is available through a secondary source; astm.org returns 403"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:eb234f6c9bfb2e197863e040c721d4cbda0534fe2ca6e8cda7690f69cb4404a5",
+			"mediatype": "text/csv",
+			"name": "ru-mens",
+			"path": "ru-mens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"title": "Russian standard 31399-2009 — standartgost.ru, allgosts.ru (the table-3 section at a 96 cm chest girth was read directly)"
+				},
+				{
+					"path": "http://liza-textile.ru/tablitsa-razmerov/",
+					"title": "http://liza-textile.ru/tablitsa-razmerov/ — the men’s 46–62 table"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:38bc4bb446db4354264246d78b9ef4c1d5721d17b7559e0f40dc20e71f99932b",
+			"mediatype": "application/json",
+			"name": "ru-mens-json",
+			"path": "ru-mens.json",
+			"sources": [
+				{
+					"title": "Russian standard 31399-2009 — standartgost.ru, allgosts.ru (the table-3 section at a 96 cm chest girth was read directly)"
+				},
+				{
+					"path": "http://liza-textile.ru/tablitsa-razmerov/",
+					"title": "http://liza-textile.ru/tablitsa-razmerov/ — the men’s 46–62 table"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:2a1ab1177b24d10748a17887f55685ee074ae915358e534e635c0420c8501ad6",
+			"mediatype": "text/csv",
+			"name": "ru-womens",
+			"path": "ru-womens.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка размера, как в источнике (число, буква или их сочетание)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди/бюста, см",
+						"name": "bust_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"title": "Russian standard 31396-2009 — standartgost.ru, allgosts.ru (indifference interval, height grades, fullness groups)"
+				},
+				{
+					"path": "https://ramonki.ru/size-table",
+					"title": "https://ramonki.ru/size-table — a girth table for sizes 38–74"
+				},
+				{
+					"path": "http://liza-textile.ru/tablitsa-razmerov/",
+					"title": "http://liza-textile.ru/tablitsa-razmerov/ — the “size = bust girth ÷ 2” formula and an independent 38–62 table"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:c429cfe611cb9195e97911dd02c6412bc8e87b7d3a80493eeda4bc4c2b1ab067",
+			"mediatype": "application/json",
+			"name": "ru-womens-json",
+			"path": "ru-womens.json",
+			"sources": [
+				{
+					"title": "Russian standard 31396-2009 — standartgost.ru, allgosts.ru (indifference interval, height grades, fullness groups)"
+				},
+				{
+					"path": "https://ramonki.ru/size-table",
+					"title": "https://ramonki.ru/size-table — a girth table for sizes 38–74"
+				},
+				{
+					"path": "http://liza-textile.ru/tablitsa-razmerov/",
+					"title": "http://liza-textile.ru/tablitsa-razmerov/ — the “size = bust girth ÷ 2” formula and an independent 38–62 table"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:b8e46bace26d16b1be5a3dd516b522ae1688211390d3af7dc7034b4f1f35ede2",
+			"mediatype": "text/csv",
+			"name": "eu-kids-standard",
+			"path": "eu-kids-standard.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка ступени, как в источнике (рост, возраст или буква)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы роста, на который скроена ступень, см",
+						"name": "stature_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы роста, на который скроена ступень, см",
+						"name": "stature_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата груди, см (у детей это chest, не bust)",
+						"name": "chest_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата груди, см (у детей это chest, не bust)",
+						"name": "chest_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата талии, см",
+						"name": "waist_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата талии, см",
+						"name": "waist_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата бёдер, см",
+						"name": "hip_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата бёдер, см",
+						"name": "hip_high_cm",
+						"type": "number"
+					},
+					{
+						"description": "Нижняя граница возраста, на который скроена ступень, месяцев",
+						"name": "age_low_months",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница возраста, на который скроена ступень, месяцев",
+						"name": "age_high_months",
+						"type": "number"
+					},
+					{
+						"description": "Как ту же ступень называет алфавит INT — равенство, утверждённое источником",
+						"name": "aka_int",
+						"type": "string"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — captured 2026-09-04: “Konfektionsgrößen Kinder” (height, girths, letter run)"
+				},
+				{
+					"path": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml",
+					"title": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — captured 2026-09-04: the continuous 38–176 cm table (height, girths, age)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:1f264148179cd149f63cae03b4104e52a54c4ecb70c676c9c545925c02af7e25",
+			"mediatype": "application/json",
+			"name": "eu-kids-standard-json",
+			"path": "eu-kids-standard.json",
+			"sources": [
+				{
+					"path": "https://de.wikipedia.org/wiki/Konfektionsgröße",
+					"title": "https://de.wikipedia.org/wiki/Konfektionsgröße — captured 2026-09-04: “Konfektionsgrößen Kinder” (height, girths, letter run)"
+				},
+				{
+					"path": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml",
+					"title": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — captured 2026-09-04: the continuous 38–176 cm table (height, girths, age)"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:7e7b7809f0c23808f36aeae2bf4ae8b65aa8e006b554813120305379190ae9d2",
+			"mediatype": "text/csv",
+			"name": "ru-kids-standard",
+			"path": "ru-kids-standard.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Печатаемая метка ступени, как в источнике (рост, возраст или буква)",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы роста, на который скроена ступень, см",
+						"name": "stature_low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы роста, на который скроена ступень, см",
+						"name": "stature_high_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-03: Russian standard 32119-2013, heights 62–98"
+				},
+				{
+					"path": "https://allgosts.ru/61/020/gost_17916-86",
+					"title": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03: Russian standard 17916-86, typical figures of girls"
+				},
+				{
+					"path": "https://allgosts.ru/61/020/gost_17917-86",
+					"title": "https://allgosts.ru/61/020/gost_17917-86 — captured 2026-09-03: Russian standard 17917-86, typical figures of boys"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:fe8000a74908fb44373094320c70bc0b0d655a3c8b0628268bf67fe8cac58e51",
+			"mediatype": "application/json",
+			"name": "ru-kids-standard-json",
+			"path": "ru-kids-standard.json",
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-03: Russian standard 32119-2013, heights 62–98"
+				},
+				{
+					"path": "https://allgosts.ru/61/020/gost_17916-86",
+					"title": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03: Russian standard 17916-86, typical figures of girls"
+				},
+				{
+					"path": "https://allgosts.ru/61/020/gost_17917-86",
+					"title": "https://allgosts.ru/61/020/gost_17917-86 — captured 2026-09-03: Russian standard 17917-86, typical figures of boys"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:0d9bbe57fd150e76312a433129a57a5d1f4a7e64119259124eb8532c7ac071df",
+			"mediatype": "text/csv",
+			"name": "gost-17916-86",
+			"path": "gost-17916-86.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Рост типовой фигуры, см — как напечатано в стандарте",
+						"name": "stature_cm",
+						"type": "number"
+					},
+					{
+						"description": "Обхват груди ТРЕТИЙ (лента по выступающим точкам груди), см",
+						"name": "chest_third_cm",
+						"type": "number"
+					},
+					{
+						"description": "Полнотный ряд стандарта (римская цифра)",
+						"name": "fullness",
+						"type": "string"
+					},
+					{
+						"description": "Обхват талии для этого сочетания роста, груди и полноты, см",
+						"name": "waist_cm",
+						"type": "number"
+					},
+					{
+						"description": "Преобладающий возраст, который стандарт называет для сочетания, лет; пусто — стандарт его не называет",
+						"name": "age_predominant_years",
+						"type": "string"
+					},
+					{
+						"description": "Средний возраст для сочетания, лет; пусто — стандарт его не называет",
+						"name": "age_mean_years",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_17916-86",
+					"title": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:11633f675d72840061e0b1a13a642b44c41eae14ba1be39afb5cba64a65c750d",
+			"mediatype": "application/json",
+			"name": "gost-17916-86-json",
+			"path": "gost-17916-86.json",
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_17916-86",
+					"title": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:48431cf9e555e4aaa78afe5268799d5de61925ff463c8ed14aae800b95e88307",
+			"mediatype": "text/csv",
+			"name": "gost-17917-86",
+			"path": "gost-17917-86.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Рост типовой фигуры, см — как напечатано в стандарте",
+						"name": "stature_cm",
+						"type": "number"
+					},
+					{
+						"description": "Обхват груди ТРЕТИЙ (лента по выступающим точкам груди), см",
+						"name": "chest_third_cm",
+						"type": "number"
+					},
+					{
+						"description": "Полнотный ряд стандарта (римская цифра)",
+						"name": "fullness",
+						"type": "string"
+					},
+					{
+						"description": "Обхват талии для этого сочетания роста, груди и полноты, см",
+						"name": "waist_cm",
+						"type": "number"
+					},
+					{
+						"description": "Преобладающий возраст, который стандарт называет для сочетания, лет; пусто — стандарт его не называет",
+						"name": "age_predominant_years",
+						"type": "string"
+					},
+					{
+						"description": "Средний возраст для сочетания, лет; пусто — стандарт его не называет",
+						"name": "age_mean_years",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_17917-86",
+					"title": "https://allgosts.ru/61/020/gost_17917-86 — captured 2026-09-03"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:e46973613e64be6db2416c313704aceff35e13399f976f8425b3695e429c49df",
+			"mediatype": "application/json",
+			"name": "gost-17917-86-json",
+			"path": "gost-17917-86.json",
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_17917-86",
+					"title": "https://allgosts.ru/61/020/gost_17917-86 — captured 2026-09-03"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:caa7176493cae881913ca1cd0e69ab2d5ecfca89abe9044a9573111eca9d2ca8",
+			"mediatype": "text/csv",
+			"name": "gost-32119-girls",
+			"path": "gost-32119-girls.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Рост типовой фигуры, см — как напечатано в стандарте",
+						"name": "stature_cm",
+						"type": "number"
+					},
+					{
+						"description": "Обхват груди ГОРИЗОНТАЛЬНЫЙ (лента через лопатки), см — НЕ та же мера, что третий",
+						"name": "chest_horizontal_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-04"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:75601972b3da36944e200ba30df433657bc96c0733b3a7b60af158510b16530d",
+			"mediatype": "application/json",
+			"name": "gost-32119-girls-json",
+			"path": "gost-32119-girls.json",
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-04"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:6f22df1e702daa2f169f67e6a8f44c2cffaf2c66002a7639d5d2518b003e861f",
+			"mediatype": "text/csv",
+			"name": "gost-32119-boys",
+			"path": "gost-32119-boys.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Рост типовой фигуры, см — как напечатано в стандарте",
+						"name": "stature_cm",
+						"type": "number"
+					},
+					{
+						"description": "Обхват груди ГОРИЗОНТАЛЬНЫЙ (лента через лопатки), см — НЕ та же мера, что третий",
+						"name": "chest_horizontal_cm",
+						"type": "number"
+					}
+				]
+			},
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-04"
+				}
+			]
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:9382fbadce3ec6ada532e5acb7b93661e0c2eb3dd40a5533b50e65a2413220b5",
+			"mediatype": "application/json",
+			"name": "gost-32119-boys-json",
+			"path": "gost-32119-boys.json",
+			"sources": [
+				{
+					"path": "https://allgosts.ru/61/020/gost_32119-2013",
+					"title": "https://allgosts.ru/61/020/gost_32119-2013 — captured 2026-09-04"
+				}
+			]
+		}
+	],
+	"sources": [
+		{
+			"path": "https://ohmymeasure.pebbly.space",
+			"title": "oh-my-measure"
+		}
+	],
+	"title": "oh-my-measure size grids — open dataset"
+}

@@ -1,0 +1,589 @@
+{
+	"basis": "standard",
+	"confidence": "medium",
+	"contentHash": "cd11dcdb0cd2d0ce",
+	"id": "eu-kids-standard",
+	"key": "stature",
+	"provenance": {
+		"de": "Die kontinentale Konfektionsgröße für Kinder: die Kennzeichnung ist die Körperhöhe in Zentimetern und bezeichnet die OBERE Grenze der Stufe. Die Bereiche stehen so, wie die Quellen sie drucken. Brust- und Taillenumfang stimmen bei beiden Quellen überein; die Hüftspalte ist die Unisex-Spalte, weil nach Geschlecht getrennte Werte nur auf jeder zweiten Stufe veröffentlicht sind.",
+		"en": "The continental children’s height ladder (Konfektionsgröße): the label is the body height in centimetres, and it marks the TOP of the step. The ranges are printed in the sources as they stand. Chest and waist agree across both sources; the hip column is the unisex one, because the sex-split figures are published on every second step only.",
+		"fr": "L’échelle de stature continentale pour enfants (Konfektionsgröße) : l’étiquette est la stature en centimètres, et elle marque la limite SUPÉRIEURE de l’échelon. Les intervalles sont imprimés tels quels dans les sources. Le tour de poitrine et le tour de taille concordent entre les deux sources ; la colonne du tour de hanches est la colonne unisexe, car les valeurs séparées par sexe ne sont publiées qu’à un échelon sur deux.",
+		"ru": "Континентальная детская ростовка (Konfektionsgröße): метка — рост в сантиметрах, и она означает верхнюю границу ступени. Диапазоны напечатаны в источниках как есть. Обхваты груди и талии сошлись у обоих источников; обхват бёдер взят из унисекс-колонки, потому что раздельная по полу опубликована только на каждой второй ступени."
+	},
+	"rows": [
+		{
+			"label": "44",
+			"stature": [
+				38,
+				44
+			]
+		},
+		{
+			"age": [
+				0,
+				1
+			],
+			"chest": [
+				41,
+				43
+			],
+			"hip": [
+				41,
+				43
+			],
+			"label": "50",
+			"stature": [
+				44,
+				50
+			],
+			"waist": [
+				41,
+				43
+			]
+		},
+		{
+			"age": [
+				1,
+				2
+			],
+			"chest": [
+				43,
+				45
+			],
+			"hip": [
+				43,
+				45
+			],
+			"label": "56",
+			"stature": [
+				51,
+				56
+			],
+			"waist": [
+				43,
+				45
+			]
+		},
+		{
+			"age": [
+				2,
+				3
+			],
+			"chest": [
+				45,
+				47
+			],
+			"hip": [
+				45,
+				47
+			],
+			"label": "62",
+			"stature": [
+				57,
+				62
+			],
+			"waist": [
+				45,
+				47
+			]
+		},
+		{
+			"age": [
+				4,
+				6
+			],
+			"chest": [
+				47,
+				49
+			],
+			"hip": [
+				47,
+				49
+			],
+			"label": "68",
+			"stature": [
+				63,
+				68
+			],
+			"waist": [
+				46,
+				48
+			]
+		},
+		{
+			"age": [
+				6,
+				9
+			],
+			"chest": [
+				49,
+				51
+			],
+			"hip": [
+				49,
+				51
+			],
+			"label": "74",
+			"stature": [
+				69,
+				74
+			],
+			"waist": [
+				47,
+				49
+			]
+		},
+		{
+			"age": [
+				9,
+				12
+			],
+			"chest": [
+				51,
+				53
+			],
+			"hip": [
+				51,
+				53
+			],
+			"label": "80",
+			"stature": [
+				75,
+				80
+			],
+			"waist": [
+				48,
+				50
+			]
+		},
+		{
+			"age": [
+				12,
+				18
+			],
+			"chest": [
+				52,
+				54
+			],
+			"hip": [
+				52,
+				54
+			],
+			"label": "86",
+			"stature": [
+				81,
+				86
+			],
+			"waist": [
+				49,
+				51
+			]
+		},
+		{
+			"age": [
+				18,
+				24
+			],
+			"chest": [
+				53,
+				55
+			],
+			"hip": [
+				53,
+				56
+			],
+			"label": "92",
+			"stature": [
+				87,
+				92
+			],
+			"waist": [
+				50,
+				52
+			]
+		},
+		{
+			"age": [
+				24,
+				35
+			],
+			"chest": [
+				54,
+				56
+			],
+			"hip": [
+				55,
+				58
+			],
+			"label": "98",
+			"stature": [
+				93,
+				98
+			],
+			"waist": [
+				51,
+				53
+			]
+		},
+		{
+			"age": [
+				36,
+				47
+			],
+			"chest": [
+				55,
+				57
+			],
+			"hip": [
+				57,
+				60
+			],
+			"label": "104",
+			"stature": [
+				99,
+				104
+			],
+			"waist": [
+				52,
+				54
+			]
+		},
+		{
+			"age": [
+				48,
+				59
+			],
+			"chest": [
+				56,
+				58
+			],
+			"hip": [
+				59,
+				62
+			],
+			"label": "110",
+			"stature": [
+				105,
+				110
+			],
+			"waist": [
+				53,
+				55
+			]
+		},
+		{
+			"age": [
+				60,
+				71
+			],
+			"chest": [
+				57,
+				59
+			],
+			"hip": [
+				61,
+				64
+			],
+			"label": "116",
+			"stature": [
+				111,
+				116
+			],
+			"waist": [
+				54,
+				56
+			]
+		},
+		{
+			"age": [
+				72,
+				77
+			],
+			"chest": [
+				58,
+				62
+			],
+			"hip": [
+				63,
+				67
+			],
+			"label": "122",
+			"stature": [
+				117,
+				122
+			],
+			"waist": [
+				55,
+				58
+			]
+		},
+		{
+			"age": [
+				78,
+				83
+			],
+			"aka": [
+				{
+					"label": "XXS",
+					"system": "INT"
+				}
+			],
+			"chest": [
+				61,
+				65
+			],
+			"hip": [
+				66,
+				70
+			],
+			"label": "128",
+			"stature": [
+				123,
+				128
+			],
+			"waist": [
+				57,
+				59
+			]
+		},
+		{
+			"age": [
+				84,
+				95
+			],
+			"chest": [
+				64,
+				68
+			],
+			"hip": [
+				69,
+				73
+			],
+			"label": "134",
+			"stature": [
+				129,
+				134
+			],
+			"waist": [
+				58,
+				61
+			]
+		},
+		{
+			"age": [
+				96,
+				107
+			],
+			"aka": [
+				{
+					"label": "XS",
+					"system": "INT"
+				}
+			],
+			"chest": [
+				67,
+				71
+			],
+			"hip": [
+				72,
+				75
+			],
+			"label": "140",
+			"stature": [
+				135,
+				140
+			],
+			"waist": [
+				60,
+				62
+			]
+		},
+		{
+			"age": [
+				108,
+				119
+			],
+			"chest": [
+				70,
+				74
+			],
+			"hip": [
+				74,
+				77
+			],
+			"label": "146",
+			"stature": [
+				141,
+				146
+			],
+			"waist": [
+				61,
+				64
+			]
+		},
+		{
+			"age": [
+				120,
+				131
+			],
+			"aka": [
+				{
+					"label": "S",
+					"system": "INT"
+				}
+			],
+			"chest": [
+				73,
+				77
+			],
+			"hip": [
+				76,
+				79
+			],
+			"label": "152",
+			"stature": [
+				147,
+				152
+			],
+			"waist": [
+				63,
+				65
+			]
+		},
+		{
+			"age": [
+				132,
+				143
+			],
+			"chest": [
+				76,
+				80
+			],
+			"hip": [
+				78,
+				81
+			],
+			"label": "158",
+			"stature": [
+				153,
+				158
+			],
+			"waist": [
+				64,
+				67
+			]
+		},
+		{
+			"age": [
+				156,
+				167
+			],
+			"aka": [
+				{
+					"label": "M",
+					"system": "INT"
+				}
+			],
+			"chest": [
+				79,
+				83
+			],
+			"hip": [
+				80,
+				83
+			],
+			"label": "164",
+			"stature": [
+				159,
+				164
+			],
+			"waist": [
+				66,
+				68
+			]
+		},
+		{
+			"age": [
+				168,
+				179
+			],
+			"chest": [
+				82,
+				86
+			],
+			"hip": [
+				82,
+				85
+			],
+			"label": "170",
+			"stature": [
+				165,
+				170
+			],
+			"waist": [
+				67,
+				70
+			]
+		},
+		{
+			"age": [
+				180,
+				191
+			],
+			"aka": [
+				{
+					"label": "L",
+					"system": "INT"
+				}
+			],
+			"chest": [
+				85,
+				89
+			],
+			"hip": [
+				84,
+				87
+			],
+			"label": "176",
+			"stature": [
+				171,
+				176
+			],
+			"waist": [
+				69,
+				71
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": "2026-09-04",
+			"text": {
+				"de": "https://de.wikipedia.org/wiki/Konfektionsgröße — erfasst am 2026-09-04: „Konfektionsgrößen Kinder“ (Körperhöhe, Umfänge, Buchstabenreihe)",
+				"en": "https://de.wikipedia.org/wiki/Konfektionsgröße — captured 2026-09-04: “Konfektionsgrößen Kinder” (height, girths, letter run)",
+				"fr": "https://de.wikipedia.org/wiki/Konfektionsgröße — capturé le 2026-09-04 : « Konfektionsgrößen Kinder » (stature, tours, série de lettres)",
+				"ru": "https://de.wikipedia.org/wiki/Konfektionsgröße — снято 2026-09-04: «Konfektionsgrößen Kinder» (рост, обхваты, буквенный ряд)"
+			},
+			"url": "https://de.wikipedia.org/wiki/Konfektionsgröße"
+		},
+		{
+			"checkedOn": "2026-09-04",
+			"text": {
+				"de": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — erfasst am 2026-09-04: die durchgehende Tabelle 38–176 cm (Körperhöhe, Umfänge, Alter)",
+				"en": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — captured 2026-09-04: the continuous 38–176 cm table (height, girths, age)",
+				"fr": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — capturé le 2026-09-04 : le tableau continu 38–176 cm (stature, tours, âge)",
+				"ru": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml — снято 2026-09-04: сплошная таблица 38–176 см (рост, обхваты, возраст)"
+			},
+			"url": "https://jumk.de/konfektionsgroessen/bekleidung-kind.shtml"
+		}
+	],
+	"system": "EU",
+	"units": {
+		"age": "months",
+		"chest": "cm",
+		"hip": "cm",
+		"stature": "cm",
+		"waist": "cm"
+	},
+	"version": 1
+}

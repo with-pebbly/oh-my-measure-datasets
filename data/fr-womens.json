@@ -1,0 +1,170 @@
+{
+	"basis": "derived",
+	"confidence": "medium",
+	"contentHash": "af0f41efff8a2e6a",
+	"cut": "womens",
+	"id": "fr-womens",
+	"provenance": {
+		"de": "Dieselbe Umfangreihe wie bei EU (die deutsche Leiter der EN 13402-3), nur mit französischer Nummerierung: Größe = Brustumfang ÷ 2 − 4, also eine Größe über der deutschen Zahl. Die Zahl rechnet sich exakt um, der Schnitt nicht: bei gleichem Brustumfang legen südeuropäische Hersteller schmalere Hüften und eine kürzere Länge zugrunde — die deutsche Quelle sagt das ausdrücklich.",
+		"en": "The same girth run as EU (the German EN 13402-3 ladder) with French numbering: size = bust girth ÷ 2 − 4, one size above the German number. The number converts exactly; the cut does not. At the same bust girth, southern European makers allow narrower hips and a shorter body — the German source says so outright.",
+		"fr": "La même échelle de tours que l’UE (l’échelle allemande de l’EN 13402-3), avec une numérotation française : taille = tour de poitrine ÷ 2 − 4, soit une taille de plus que le numéro allemand. Le chiffre se convertit exactement, la coupe non : à tour de poitrine égal, les fabricants d’Europe du Sud prévoient des hanches plus étroites et une stature plus courte — la source allemande le dit explicitement.",
+		"ru": "Тот же ряд обхватов, что у EU (германская лестница EN 13402-3), с французской нумерацией: размер = обхват груди ÷ 2 − 4, то есть на один размер выше германского. Число пересчитывается точно; крой — нет: при том же обхвате груди южноевропейские производители закладывают более узкие бёдра и меньший рост, и об этом прямо предупреждает немецкий источник."
+	},
+	"rows": [
+		{
+			"bust": [
+				74,
+				78
+			],
+			"hip": [
+				80,
+				84
+			],
+			"label": "34",
+			"waist": [
+				56,
+				60
+			]
+		},
+		{
+			"bust": [
+				78,
+				82
+			],
+			"hip": [
+				84,
+				88
+			],
+			"label": "36",
+			"waist": [
+				60,
+				64
+			]
+		},
+		{
+			"bust": [
+				82,
+				86
+			],
+			"hip": [
+				88,
+				92
+			],
+			"label": "38",
+			"waist": [
+				64,
+				68
+			]
+		},
+		{
+			"bust": [
+				86,
+				90
+			],
+			"hip": [
+				92,
+				96
+			],
+			"label": "40",
+			"waist": [
+				68,
+				72
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"hip": [
+				96,
+				100
+			],
+			"label": "42",
+			"waist": [
+				72,
+				76
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"hip": [
+				100,
+				104
+			],
+			"label": "44",
+			"waist": [
+				76,
+				80
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"hip": [
+				104,
+				108
+			],
+			"label": "46",
+			"waist": [
+				80,
+				84
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"hip": [
+				108,
+				112
+			],
+			"label": "48",
+			"waist": [
+				84,
+				88
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — „Continental European women’s sizes“: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — « Continental European women’s sizes » : IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — «Continental European women's sizes»: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://de.wikipedia.org/wiki/Konfektionsgröße — „die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen“ (DE 38 = FR 40 = IT 44)",
+				"en": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)",
+				"fr": "https://de.wikipedia.org/wiki/Konfektionsgröße — « die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen » (DE 38 = FR 40 = IT 44)",
+				"ru": "https://de.wikipedia.org/wiki/Konfektionsgröße — «die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen» (DE 38 = FR 40 = IT 44)"
+			},
+			"url": "https://de.wikipedia.org/wiki/Konfektionsgröße"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "EN 13402-3 — über https://en.wikipedia.org/wiki/EN_13402 (die gemeinsame Maßleiter, aus der die EU-Tabelle abgeleitet ist)",
+				"en": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)",
+				"fr": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (l’échelle de tours commune dont dérive le tableau EU)",
+				"ru": "EN 13402-3 — через https://en.wikipedia.org/wiki/EN_13402 (общая лестница обхватов, из которой выведена сетка EU)"
+			},
+			"url": "https://en.wikipedia.org/wiki/EN_13402"
+		}
+	],
+	"system": "FR",
+	"unit": "cm",
+	"version": 2
+}

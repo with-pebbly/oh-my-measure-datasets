@@ -1,0 +1,120 @@
+{
+	"basis": "retail-convention",
+	"confidence": "medium",
+	"contentHash": "b7c0585003c1779d",
+	"cut": "mens",
+	"id": "uk-mens",
+	"provenance": {
+		"de": "Ein einziger Händler (Next) — die übrigen waren nicht erreichbar, eine Marktstreuung lässt sich hier deshalb nicht zeigen. Die Oberteile sind mit Buchstaben ausgezeichnet: die Bänder sind die Mitten zwischen den Mittelpunkten der veröffentlichten Brustbereiche. Die Taille stammt aus der Hosentabelle desselben Händlers und deckt nur fünf von zehn Buchstaben ab. Der Hüftumfang wird nicht veröffentlicht.",
+		"en": "One retailer (Next) — the others could not be reached, so no market spread can be shown here. The tops are lettered: the bands are the midpoints between the centres of the published chest ranges. The waist comes from the same retailer's trouser chart and covers only five letters out of ten. Hip girth is not published.",
+		"fr": "Un seul détaillant (Next) — les autres n’ont pas pu être joints, l’écart de marché ne peut donc pas être montré ici. Les hauts sont repérés par des lettres : les bandes sont les points médians entre les centres des plages de tour de poitrine publiées. Le tour de taille provient du tableau de pantalons du même détaillant et ne couvre que cinq lettres sur dix. Le tour de hanches n’est pas publié.",
+		"ru": "Один ритейлер (Next) — до остальных дотянуться не удалось, поэтому разброса по рынку здесь показать нельзя. Верх размечен буквами: полосы — середины между центрами опубликованных диапазонов обхвата груди. Талия — по брючной таблице того же ритейлера и только для пяти букв из десяти. Обхват бёдер не публикуется."
+	},
+	"rows": [
+		{
+			"bust": [
+				74.9,
+				82.6
+			],
+			"label": "XXS"
+		},
+		{
+			"bust": [
+				82.6,
+				90.3
+			],
+			"label": "XS",
+			"waist": [
+				71,
+				76
+			]
+		},
+		{
+			"bust": [
+				90.3,
+				97.8
+			],
+			"label": "S",
+			"waist": [
+				76,
+				81.3
+			]
+		},
+		{
+			"bust": [
+				97.8,
+				105.4
+			],
+			"label": "M",
+			"waist": [
+				81.3,
+				86.5
+			]
+		},
+		{
+			"bust": [
+				105.4,
+				113.1
+			],
+			"label": "L",
+			"waist": [
+				86.5,
+				91.5
+			]
+		},
+		{
+			"bust": [
+				113.1,
+				120.8
+			],
+			"label": "XL",
+			"waist": [
+				91.5,
+				96.5
+			]
+		},
+		{
+			"bust": [
+				120.8,
+				128.3
+			],
+			"label": "2XL"
+		},
+		{
+			"bust": [
+				128.3,
+				135.8
+			],
+			"label": "3XL"
+		},
+		{
+			"bust": [
+				135.8,
+				143.5
+			],
+			"label": "4XL"
+		},
+		{
+			"bust": [
+				143.5,
+				151.5
+			],
+			"label": "5XL"
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next",
+				"en": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next",
+				"fr": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next",
+				"ru": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide — Next"
+			},
+			"url": "https://zendesk.next.co.uk/hc/en-gb/articles/28403517951505-Men-s-Sizing-Guide"
+		}
+	],
+	"system": "UK",
+	"unit": "cm",
+	"version": 1
+}

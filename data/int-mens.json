@@ -1,0 +1,230 @@
+{
+	"basis": "retail-convention",
+	"confidence": "medium",
+	"contentHash": "b26b5659b17c4c8d",
+	"cut": "mens",
+	"id": "int-mens",
+	"provenance": {
+		"de": "Die Zeile International aus der Tabelle AT/DE/NL/DK/SE/FI mit ihren Spalten für Brust-, Taillen- und Hüftumfang. Bis XXL entspricht ein Buchstabe einer Zahlengröße, ab 3XL zweien — genau so, wie es die Quelle druckt. Die Hüftspalte der Quelle endet bei 4XL: die größeren Größen haben keine, und hier haben sie ebenfalls keine.",
+		"en": "The International row from the AT/DE/NL/DK/SE/FI table with its chest, waist and hip columns. Up to XXL a letter maps to one numeric size; from 3XL it maps to two, exactly as printed in the source. The source's hip column stops at 4XL: the larger sizes have none, and neither do these.",
+		"fr": "La ligne International du tableau AT/DE/NL/DK/SE/FI avec ses colonnes de tour de poitrine, de tour de taille et de tour de hanches. Jusqu’à XXL, une lettre correspond à une seule taille numérique ; à partir de 3XL, elle en couvre deux, exactement comme l’imprime la source. Dans la source, la colonne des hanches s’arrête à 4XL : les tailles supérieures n’en ont pas, et ici non plus.",
+		"ru": "Строка International из таблицы AT/DE/NL/DK/SE/FI с её колонками обхвата груди, талии и бёдер. До XXL буква соответствует одному числовому размеру, с 3XL — двум, как и напечатано в источнике. Колонка бёдер в источнике заканчивается на 4XL: у больших размеров её нет, и здесь она тоже пустая."
+	},
+	"rows": [
+		{
+			"alpha": "XXS",
+			"bust": [
+				86,
+				89
+			],
+			"hip": [
+				90,
+				93
+			],
+			"label": "XXS",
+			"waist": [
+				74,
+				77
+			]
+		},
+		{
+			"alpha": "XS",
+			"bust": [
+				90,
+				93
+			],
+			"hip": [
+				94,
+				97
+			],
+			"label": "XS",
+			"waist": [
+				78,
+				81
+			]
+		},
+		{
+			"alpha": "S",
+			"bust": [
+				94,
+				97
+			],
+			"hip": [
+				98,
+				101
+			],
+			"label": "S",
+			"waist": [
+				82,
+				85
+			]
+		},
+		{
+			"alpha": "M",
+			"bust": [
+				98,
+				101
+			],
+			"hip": [
+				102,
+				105
+			],
+			"label": "M",
+			"waist": [
+				86,
+				89
+			]
+		},
+		{
+			"alpha": "L",
+			"bust": [
+				102,
+				105
+			],
+			"hip": [
+				106,
+				109
+			],
+			"label": "L",
+			"waist": [
+				90,
+				94
+			]
+		},
+		{
+			"alpha": "XL",
+			"bust": [
+				106,
+				109
+			],
+			"hip": [
+				110,
+				113
+			],
+			"label": "XL",
+			"waist": [
+				95,
+				99
+			]
+		},
+		{
+			"alpha": "XXL",
+			"bust": [
+				110,
+				113
+			],
+			"hip": [
+				114,
+				117
+			],
+			"label": "XXL",
+			"waist": [
+				100,
+				104
+			]
+		},
+		{
+			"alpha": "3XL",
+			"bust": [
+				114,
+				121
+			],
+			"hip": [
+				118,
+				125
+			],
+			"label": "3XL",
+			"waist": [
+				105,
+				114
+			]
+		},
+		{
+			"alpha": "4XL",
+			"bust": [
+				122,
+				128
+			],
+			"hip": [
+				126,
+				129
+			],
+			"label": "4XL",
+			"waist": [
+				115,
+				124
+			]
+		},
+		{
+			"alpha": "5XL",
+			"bust": [
+				129,
+				136
+			],
+			"label": "5XL",
+			"waist": [
+				125,
+				132
+			]
+		},
+		{
+			"alpha": "6XL",
+			"bust": [
+				137,
+				144
+			],
+			"label": "6XL",
+			"waist": [
+				133,
+				138
+			]
+		},
+		{
+			"alpha": "7XL",
+			"bust": [
+				145,
+				148
+			],
+			"label": "7XL",
+			"waist": [
+				139,
+				142
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — Tabelle „Women’s clothing sizes (DE/AT/NL/SE/DK)“: die Zeile International über den Umfangspalten",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Women's clothing sizes (DE/AT/NL/SE/DK)” table: the International row above the girth columns",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — le tableau « Women’s clothing sizes (DE/AT/NL/SE/DK) » : la ligne International au-dessus des colonnes de tours",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблица «Women's clothing sizes (DE/AT/NL/SE/DK)»: строка International над колонками обхватов"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — Tabelle „Men’s clothing sizes (AT/DE/NL/DK/SE/FI)“: derselbe Aufbau für die Herrenreihe",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's clothing sizes (AT/DE/NL/DK/SE/FI)” table: the same structure for the men's run",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — le tableau « Men’s clothing sizes (AT/DE/NL/DK/SE/FI) » : la même structure pour la série hommes",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблица «Men's clothing sizes (AT/DE/NL/DK/SE/FI)»: та же структура для мужского ряда"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — Tabelle „Men’s shirts by neck girth“ (die Kragenreihe in Buchstaben)",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table (the lettered collar run)",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — le tableau « Men’s shirts by neck girth » (la série de cols en lettres)",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблица «Men's shirts by neck girth» (буквенный ряд воротника)"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		}
+	],
+	"system": "INT",
+	"unit": "cm",
+	"version": 1
+}

@@ -1,0 +1,44 @@
+{
+	"basis": "standard",
+	"chestGirth": "third",
+	"confidence": "high",
+	"contentHash": "20c0150b1629724c",
+	"fullness": [
+		"I",
+		"II",
+		"III",
+		"IV",
+		"V",
+		"VI",
+		"VII",
+		"VIII",
+		"IX"
+	],
+	"id": "gost-17916-86",
+	"provenance": {
+		"de": "russische Norm 17916-86 „Typische Figuren von Mädchen. Körpermaße für die Bekleidungskonstruktion“, Tabelle 1 (typologische Zusammensetzung), vollständig transkribiert; Kombinationen, die die Norm nicht nennt, bleiben leer.",
+		"en": "Russian standard 17916-86 “Typical figures of girls. Body measurements for garment design”, table 1 (typological composition), transcribed in full; combinations the standard does not list are left empty.",
+		"fr": "norme russe 17916-86 « Figures types de filles. Caractéristiques dimensionnelles pour la construction des vêtements », tableau 1 (composition typologique), transcrit intégralement ; les combinaisons que la norme ne mentionne pas sont laissées vides.",
+		"ru": "российский стандарт 17916-86 «Фигуры девочек типовые. Размерные признаки для проектирования одежды», таблица 1 «Типологический состав». Транскрибирована целиком; сочетания, которых стандарт не называет, оставлены пустыми."
+	},
+	"sex": "girls",
+	"sources": [
+		{
+			"checkedOn": "2026-09-03",
+			"text": {
+				"de": "https://allgosts.ru/61/020/gost_17916-86 — erfasst am 2026-09-03",
+				"en": "https://allgosts.ru/61/020/gost_17916-86 — captured 2026-09-03",
+				"fr": "https://allgosts.ru/61/020/gost_17916-86 — capturé le 2026-09-03",
+				"ru": "https://allgosts.ru/61/020/gost_17916-86 — снято 2026-09-03"
+			},
+			"url": "https://allgosts.ru/61/020/gost_17916-86"
+		}
+	],
+	"units": {
+		"age": "years",
+		"chest": "cm",
+		"stature": "cm",
+		"waist": "cm"
+	},
+	"version": 1
+}

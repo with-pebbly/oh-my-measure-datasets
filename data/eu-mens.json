@@ -1,0 +1,170 @@
+{
+	"basis": "standard",
+	"confidence": "medium",
+	"contentHash": "684c1ffed836bd52",
+	"cut": "mens",
+	"id": "eu-mens",
+	"provenance": {
+		"de": "Brust- und Taillenumfang sind die Leiter der EN 13402-3 (Band ±2 cm). Die Größenzahl ist die deutsche Konvention, Größe = Brustumfang ÷ 2. Für Herrenoberbekleidung definiert die EN 13402 keinen Hüftumfang, deshalb fehlt diese Spalte hier.",
+		"en": "Chest and waist girths are the EN 13402-3 ladder (a ±2 cm band). The size number is the German convention, size = chest girth ÷ 2. EN 13402 does not define hip girth for menswear, so there is no such column here.",
+		"fr": "Le tour de poitrine et le tour de taille suivent l’échelle de la EN 13402-3 (bande ±2 cm). Le numéro de taille suit la convention allemande, taille = tour de poitrine ÷ 2. La EN 13402 ne définit pas de tour de hanches pour le vêtement homme, cette colonne n’existe donc pas ici.",
+		"ru": "Обхваты груди и талии — лестница EN 13402-3 (полоса ±2 см). Номер размера — германская конвенция «размер = обхват груди ÷ 2». Обхват бёдер для мужской одежды EN 13402 не определяет, поэтому этой колонки здесь нет."
+	},
+	"rows": [
+		{
+			"bust": [
+				82,
+				86
+			],
+			"label": "42",
+			"waist": [
+				68,
+				72
+			]
+		},
+		{
+			"bust": [
+				86,
+				90
+			],
+			"label": "44",
+			"waist": [
+				72,
+				76
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"label": "46",
+			"waist": [
+				76,
+				80
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"label": "48",
+			"waist": [
+				80,
+				84
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"label": "50",
+			"waist": [
+				84,
+				88
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"label": "52",
+			"waist": [
+				88,
+				92
+			]
+		},
+		{
+			"bust": [
+				106,
+				110
+			],
+			"label": "54",
+			"waist": [
+				92,
+				96
+			]
+		},
+		{
+			"bust": [
+				110,
+				114
+			],
+			"label": "56",
+			"waist": [
+				96,
+				100
+			]
+		},
+		{
+			"bust": [
+				114,
+				118
+			],
+			"label": "58",
+			"waist": [
+				100,
+				104
+			]
+		},
+		{
+			"bust": [
+				118,
+				122
+			],
+			"label": "60",
+			"waist": [
+				104,
+				108
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "EN 13402-1/-2/-3 — über https://en.wikipedia.org/wiki/EN_13402 (die Maßleiter und der Klassenschritt)",
+				"en": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (the girth ladder and the class step)",
+				"fr": "EN 13402-1/-2/-3 — via https://en.wikipedia.org/wiki/EN_13402 (l’échelle des tours et le pas de classe)",
+				"ru": "EN 13402-1/-2/-3 — через https://en.wikipedia.org/wiki/EN_13402 (лестница обхватов и шаг классов)"
+			},
+			"url": "https://en.wikipedia.org/wiki/EN_13402"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — die deutsche Konvention und ihre Formel",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the German convention and its formula",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — la convention allemande et sa formule",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — германская конвенция и её формула"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://de.wikipedia.org/wiki/Konfektionsgröße — dieselbe Formel und ihre Ankerzeilen",
+				"en": "https://de.wikipedia.org/wiki/Konfektionsgröße — the same formula and its anchor rows",
+				"fr": "https://de.wikipedia.org/wiki/Konfektionsgröße — la même formule et ses lignes de référence",
+				"ru": "https://de.wikipedia.org/wiki/Konfektionsgröße — та же формула и опорные строки"
+			},
+			"url": "https://de.wikipedia.org/wiki/Konfektionsgröße"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Shirt_size — Kragenweite in Zentimetern",
+				"en": "https://en.wikipedia.org/wiki/Shirt_size — collar in centimetres",
+				"fr": "https://en.wikipedia.org/wiki/Shirt_size — encolure en centimètres",
+				"ru": "https://en.wikipedia.org/wiki/Shirt_size — воротник в сантиметрах"
+			},
+			"url": "https://en.wikipedia.org/wiki/Shirt_size"
+		}
+	],
+	"system": "EU",
+	"unit": "cm",
+	"version": 1
+}

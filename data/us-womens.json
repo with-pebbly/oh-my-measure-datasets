@@ -1,0 +1,185 @@
+{
+	"basis": "retail-convention",
+	"confidence": "medium",
+	"contentHash": "981bb60ceac7b0af",
+	"cut": "womens",
+	"id": "us-womens",
+	"provenance": {
+		"de": "Eine Norm gibt es nicht: die staatliche wurde 1983 zurückgezogen, die freiwillige ASTM D5585 im Jahr 2020. Die Zeilen sind das Mittel aus zwei veröffentlichten Händlertabellen, die Bänder die Mitten zwischen benachbarten Werten. Die Reihe bricht bei 16 ab: darüber wechseln beide Quellen auf eine eigene Plus-Tabelle, die diese hier nicht fortsetzt. Buchstabengrößen sind nicht angegeben — die Quellen sind sich uneins, welcher Buchstabe zu ein und demselben Körper gehört.",
+		"en": "There is no standard: the government one was withdrawn in 1983 and the voluntary ASTM D5585 was withdrawn in 2020. The rows are the average of two published retailer charts, and the bands are the midpoints between neighbouring values. The run stops at 16: above it both sources move to a separate plus chart that does not continue this one. Letter labels are not given — the sources disagree about which letter fits the same body.",
+		"fr": "Il n’existe pas de norme : la norme gouvernementale a été abolie en 1983, la norme volontaire ASTM D5585 en 2020. Les lignes sont la moyenne de deux tableaux de détaillants publiés, les bandes sont les points médians entre valeurs voisines. La série s’arrête à 16 : au-delà, les deux sources basculent vers une grille distincte pour les grandes tailles, qui ne prolonge pas celle-ci. Les désignations en lettres ne sont pas indiquées — les sources ne s’accordent pas sur quelle lettre correspond au même corps.",
+		"ru": "Стандарта нет: государственный отменён в 1983 году, добровольный ASTM D5585 отозван в 2020-м. Строки — среднее по двум опубликованным таблицам ритейлеров, полосы — середины между соседними значениями. Ряд обрывается на 16: выше оба источника переходят на отдельную plus-сетку, которая не продолжает эту. Буквенные обозначения не приводятся — источники расходятся, какая буква соответствует одному и тому же телу."
+	},
+	"rows": [
+		{
+			"bust": [
+				82.5,
+				83.5
+			],
+			"hip": [
+				88,
+				90
+			],
+			"label": "0",
+			"waist": [
+				63,
+				65
+			]
+		},
+		{
+			"bust": [
+				83.5,
+				86
+			],
+			"hip": [
+				90,
+				92.5
+			],
+			"label": "2",
+			"waist": [
+				65,
+				67.5
+			]
+		},
+		{
+			"bust": [
+				86,
+				89
+			],
+			"hip": [
+				92.5,
+				95.5
+			],
+			"label": "4",
+			"waist": [
+				67.5,
+				70
+			]
+		},
+		{
+			"bust": [
+				89,
+				91.5
+			],
+			"hip": [
+				95.5,
+				98
+			],
+			"label": "6",
+			"waist": [
+				70,
+				72.5
+			]
+		},
+		{
+			"bust": [
+				91.5,
+				94
+			],
+			"hip": [
+				98,
+				100.5
+			],
+			"label": "8",
+			"waist": [
+				72.5,
+				75
+			]
+		},
+		{
+			"bust": [
+				94,
+				97
+			],
+			"hip": [
+				100.5,
+				104
+			],
+			"label": "10",
+			"waist": [
+				75,
+				78.5
+			]
+		},
+		{
+			"bust": [
+				97,
+				100.5
+			],
+			"hip": [
+				104,
+				107.5
+			],
+			"label": "12",
+			"waist": [
+				78.5,
+				82.5
+			]
+		},
+		{
+			"bust": [
+				100.5,
+				105
+			],
+			"hip": [
+				107.5,
+				112
+			],
+			"label": "14",
+			"waist": [
+				82.5,
+				87
+			]
+		},
+		{
+			"bust": [
+				105,
+				111
+			],
+			"hip": [
+				112,
+				118
+			],
+			"label": "16",
+			"waist": [
+				87,
+				93
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://www.talbots.com/size-charts/size-charts.html — Talbots",
+				"en": "https://www.talbots.com/size-charts/size-charts.html — Talbots",
+				"fr": "https://www.talbots.com/size-charts/size-charts.html — Talbots",
+				"ru": "https://www.talbots.com/size-charts/size-charts.html — Talbots"
+			},
+			"url": "https://www.talbots.com/size-charts/size-charts.html"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://draperjames.com/pages/size-chart — Draper James",
+				"en": "https://draperjames.com/pages/size-chart — Draper James",
+				"fr": "https://draperjames.com/pages/size-chart — Draper James",
+				"ru": "https://draperjames.com/pages/size-chart — Draper James"
+			},
+			"url": "https://draperjames.com/pages/size-chart"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "ASTM D5585 — nur eine einzige Zeile (Größe 12) ist über eine Sekundärquelle zugänglich; astm.org antwortet mit 403",
+				"en": "ASTM D5585 — only one row (size 12) is available through a secondary source; astm.org returns 403",
+				"fr": "ASTM D5585 — une seule ligne (taille 12) est accessible via une source secondaire ; astm.org répond 403",
+				"ru": "ASTM D5585 — только одна строка (размер 12) доступна через вторичный источник; astm.org отдаёт 403"
+			},
+			"url": null
+		}
+	],
+	"system": "US",
+	"unit": "cm",
+	"version": 1
+}

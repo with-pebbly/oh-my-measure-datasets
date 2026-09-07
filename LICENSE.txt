@@ -1,0 +1,86 @@
+LICENSE — под какими условиями распространяется то, что вы сейчас скачали
+=========================================================================
+Обновлено: 2026-09-05.  Атрибуция источников: /NOTICE.txt
+
+Здесь две лицензии, потому что здесь два разных предмета. Разделены они не для
+удобства, а потому что share-alike пришёл с материалом источников и обязан
+ехать дальше с ним, а не со всем остальным.
+
+
+1. РАЗМЕРНЫЕ ДАННЫЕ — CC BY-SA 4.0
+-----------------------------------
+
+Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+Покрыты: числовые ряды размерных сеток и всё, что из них сгенерировано —
+уплотнённое представление, предпостроенный индекс, выгрузка датасета.
+
+Девять сеток выведены из статей Википедии (eu-womens, eu-mens, fr-womens,
+fr-mens, it-womens, it-mens, int-womens, int-mens, jp-womens). Материал
+ИЗМЕНЁН; в чём именно состоят изменения — перечислено в /NOTICE.txt, как
+того требует раздел 3(a)(1)(B) лицензии.
+
+Что это значит для вас, если вы берёте эти данные: назовите источник, оставьте
+уведомление о лицензии, обозначьте свои изменения и распространяйте
+производное под той же лицензией. Раздел 4(b) распространяет это условие и на
+случай, когда берётся существенная часть содержимого базы.
+
+
+2. КОД ПРИЛОЖЕНИЯ — Apache-2.0
+-------------------------------
+
+Apache License, Version 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+SPDX-License-Identifier: Apache-2.0
+
+Покрыты: движок подбора, компоненты интерфейса, кодек ссылки, скрипты сборки
+и замера — всё, что данные ЧИТАЕТ, а не включает их выражение в себя.
+Соседство данных и кода образует Collection, и CC BY-SA не требует
+лицензировать Collection целиком.
+
+
+3. ЧЕГО ЭТИ ЛИЦЕНЗИИ НЕ ПОКРЫВАЮТ
+----------------------------------
+
+  * 496 размерных таблиц брендов. Числа в них — факты о вещах, которые
+    продаёт бренд; их источник и дата снятия названы под каждой таблицей и
+    в /NOTICE.txt, раздел 2. Они распространяются ОТДЕЛЬНОЙ выгрузкой —
+    /dataset-brands/ — и намеренно не смешаны с /dataset/: лицензии от
+    своего имени мы на них не выдаём, потому что права не наши. На каком
+    основании они там лежат — /dataset-brands/RIGHTS.txt.
+  * Товарные знаки и логотипы брендов. Употребляются номинативно.
+  * Сторонние зависимости — их лицензии в THIRD_PARTY_NOTICES.md.
+  * Трёхмерные модели и шрифты — там же.
+
+Правовой режим сеток целиком — предмет ADR-005. Этот файл исполняет то, чего
+лицензии требуют буквально, и не является юридическим заключением.
+
+
+=========================================================================
+ENGLISH SUMMARY
+=========================================================================
+
+Two licences, two subjects.
+
+DATA — the numeric size-grid series and anything generated from them —
+Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0).
+Nine grids are derived from Wikipedia articles; the material was MODIFIED and
+the modifications are listed in /NOTICE.txt as clause 3(a)(1)(B) requires. If
+you take the data: attribute, keep the licence notice, indicate your changes,
+and share alike.
+
+CODE — the sizing engine, UI components, link codec, build and measurement
+scripts — Apache License 2.0. The code reads the data; it does not incorporate
+its expression, so the share-alike obligation does not reach it.
+
+NOT COVERED: 496 brand size charts — facts about goods a brand sells, each
+credited on its own page and in /NOTICE.txt §2. They are published as a
+SEPARATE export at /dataset-brands/, deliberately not mixed into /dataset/:
+we grant no licence over them because the rights are not ours. The basis on
+which they are published is stated in /dataset-brands/RIGHTS.txt. Also not
+covered: brand trademarks and logos (nominative use), third-party
+dependencies, 3D models and fonts (see THIRD_PARTY_NOTICES.md).
+
+This file states what the licences require. It is not legal advice.

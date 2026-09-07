@@ -1,0 +1,215 @@
+{
+	"basis": "standard",
+	"confidence": "medium",
+	"contentHash": "f765d5b89e4640f1",
+	"cut": "womens",
+	"id": "jp-womens",
+	"provenance": {
+		"de": "JIS L 4005: die Größenzahl ist der Brustumfang, und das Band um sie herum reicht bis zur Mitte des Abstands zur Nachbargröße. Die Hüfte ist die Kombination A-R, also Normalfülligkeit bei Normallänge: Fülligkeit A gibt der Hüfte 4 cm hinzu, Länge R weitere 2. Die Rechnung stammt aus der Norm selbst, die das Beispiel 13-B-T als 89 + 12 + 4 durchrechnet. Einen Taillenumfang veröffentlicht die JIS in dieser Reihe nicht, und diese Tabelle tut es ebenso wenig. Die Herrenreihe (JIS L 4004) findet sich in keiner erreichbaren Quelle — sie fehlt, sie ist nicht erfunden.",
+		"en": "JIS L 4005: the size number is the bust girth, and the band around it reaches halfway to the neighbouring size. Hips are the A-R combination, standard fullness at standard height: fullness A adds 4 cm to the hips and length R adds 2 more. The arithmetic comes from the standard itself, which works through 13-B-T as 89 + 12 + 4. JIS publishes no waist girth in this run, and neither does this table. The men's run (JIS L 4004) is not in any available source — it is missing, not invented.",
+		"fr": "JIS L 4005 : le numéro de taille est le tour de poitrine, et la bande autour de lui va jusqu’à la moitié de l’écart avec la taille voisine. Les hanches sont la combinaison A-R, corpulence normale à stature normale : la corpulence A ajoute 4 cm aux hanches, la longueur R en ajoute 2 de plus. Le calcul vient de la norme elle-même, qui détaille l’exemple 13-B-T comme 89 + 12 + 4. La JIS ne publie pas de tour de taille dans cette série, et ce tableau non plus. La série hommes (JIS L 4004) ne figure dans aucune source disponible — elle est absente, pas inventée.",
+		"ru": "JIS L 4005: номер размера — это обхват груди, полоса вокруг него доходит до середины расстояния до соседнего размера. Бёдра — сочетание A-R, стандартная полнота на стандартном росте: полнота A прибавляет к бёдрам 4 см, длина R — ещё 2. Арифметика взята из самого стандарта, который разбирает пример 13-B-T как 89 + 12 + 4. Обхвата талии JIS в этом ряду не публикует, и здесь его тоже нет. Мужского ряда (JIS L 4004) в доступных источниках нет — он не выдуман, а пропущен."
+	},
+	"rows": [
+		{
+			"bust": [
+				72.5,
+				75.5
+			],
+			"hip": [
+				78.5,
+				81.5
+			],
+			"label": "3"
+		},
+		{
+			"bust": [
+				75.5,
+				78.5
+			],
+			"hip": [
+				81.5,
+				84.5
+			],
+			"label": "5"
+		},
+		{
+			"bust": [
+				78.5,
+				81.5
+			],
+			"hip": [
+				84.5,
+				87.5
+			],
+			"label": "7"
+		},
+		{
+			"bust": [
+				81.5,
+				84.5
+			],
+			"hip": [
+				87.5,
+				90.5
+			],
+			"label": "9"
+		},
+		{
+			"bust": [
+				84.5,
+				87.5
+			],
+			"hip": [
+				90.5,
+				93.5
+			],
+			"label": "11"
+		},
+		{
+			"bust": [
+				87.5,
+				90.5
+			],
+			"hip": [
+				93.5,
+				96.5
+			],
+			"label": "13"
+		},
+		{
+			"bust": [
+				90.5,
+				94
+			],
+			"hip": [
+				96.5,
+				100
+			],
+			"label": "15"
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"hip": [
+				100,
+				104
+			],
+			"label": "17"
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"hip": [
+				104,
+				108
+			],
+			"label": "19"
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"hip": [
+				108,
+				112
+			],
+			"label": "21"
+		},
+		{
+			"bust": [
+				106,
+				110
+			],
+			"hip": [
+				112,
+				116
+			],
+			"label": "23"
+		},
+		{
+			"bust": [
+				110,
+				114
+			],
+			"hip": [
+				116,
+				120
+			],
+			"label": "25"
+		},
+		{
+			"bust": [
+				114,
+				118
+			],
+			"hip": [
+				120,
+				124
+			],
+			"label": "27"
+		},
+		{
+			"bust": [
+				118,
+				122
+			],
+			"hip": [
+				124,
+				128
+			],
+			"label": "29"
+		},
+		{
+			"bust": [
+				122,
+				126
+			],
+			"hip": [
+				128,
+				132
+			],
+			"label": "31"
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — Tabelle „Japanese dresses sizes (JIS L 4005:2001)“: Größenzahl und Brustumfang",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Japanese dresses sizes (JIS L 4005:2001)” table: size number and bust girth",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — le tableau « Japanese dresses sizes (JIS L 4005:2001) » : numéro de taille et tour de poitrine",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблица «Japanese dresses sizes (JIS L 4005:2001)»: номер размера и обхват груди"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — die Tabellen der Längen- (PP/P/R/T) und Fülligkeitszusätze (Y/A/AB/B), mit durchgerechnetem Beispiel 13-B-T",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the length (PP/P/R/T) and fullness (Y/A/AB/B) modifier tables, with 13-B-T worked through",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — les tableaux des modificateurs de longueur (PP/P/R/T) et de corpulence (Y/A/AB/B), avec l’exemple 13-B-T entièrement calculé",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблицы модификаторов длины (PP/P/R/T) и полноты (Y/A/AB/B) с разобранным примером 13-B-T"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — Tabelle „Men’s shirts by neck girth“: die Kragenreihe für UK / EU / Japan ist dieselbe",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — the “Men's shirts by neck girth” table: the UK / EU / Japan collar run is shared",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — le tableau « Men’s shirts by neck girth » : la série de cols UK / EU / Japan est commune",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — таблица «Men's shirts by neck girth»: ряд воротника UK / EU / Japan общий"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		}
+	],
+	"system": "JP",
+	"unit": "cm",
+	"version": 1
+}

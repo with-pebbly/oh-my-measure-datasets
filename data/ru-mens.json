@@ -1,0 +1,190 @@
+{
+	"basis": "standard",
+	"confidence": "medium",
+	"contentHash": "b65dedba01f550dd",
+	"cut": "mens",
+	"id": "ru-mens",
+	"provenance": {
+		"de": "Die Brustumfänge stammen aus der russischen Norm 31399-2009 samt ihrem Indifferenzintervall (±2 cm). Die Taille ist nach einer Handelstabelle auf eine einzige Fülligkeitsgruppe zusammengezogen (Brust − 12 cm); die Norm selbst gibt fünf Gruppen an, mit Differenzen von Brust zu Taille von 22/16/10/4/−2 cm. Einen Hüftumfang kennt die russische Norm 31399-2009 überhaupt nicht — diese Spalte stammt aus einer Handelstabelle.",
+		"en": "Chest girths are Russian standard 31399-2009 with its indifference interval (±2 cm). The waist is collapsed to a single fullness group (chest − 12 cm) after a retail chart; the standard itself gives five groups, with chest-to-waist differences of 22/16/10/4/−2 cm. Russian standard 31399-2009 has no hip girth at all — that column comes from a retail chart.",
+		"fr": "Les tours de poitrine viennent de la norme russe 31399-2009 avec son intervalle d’indifférence (±2 cm). Le tour de taille est ramené à un seul groupe de corpulence (poitrine − 12 cm) d’après un tableau commercial ; la norme elle-même donne cinq groupes, avec des écarts entre poitrine et taille de 22/16/10/4/−2 cm. La norme russe 31399-2009 ne connaît aucun tour de hanches — cette colonne vient d’un tableau commercial.",
+		"ru": "Обхваты груди — российский стандарт 31399-2009 с его интервалом безразличия (±2 см). Талия сведена к одной полнотной группе (грудь − 12 см) по розничной таблице; сам стандарт даёт пять групп с разницей груди и талии 22/16/10/4/−2 см. Обхват бёдер в российском стандарте 31399-2009 отсутствует вовсе — колонка взята из розничной таблицы."
+	},
+	"rows": [
+		{
+			"bust": [
+				86,
+				90
+			],
+			"hip": [
+				94,
+				98
+			],
+			"label": "44",
+			"waist": [
+				74,
+				78
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"hip": [
+				98,
+				102
+			],
+			"label": "46",
+			"waist": [
+				78,
+				82
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"hip": [
+				102,
+				106
+			],
+			"label": "48",
+			"waist": [
+				82,
+				86
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"hip": [
+				106,
+				110
+			],
+			"label": "50",
+			"waist": [
+				86,
+				90
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"hip": [
+				110,
+				114
+			],
+			"label": "52",
+			"waist": [
+				90,
+				94
+			]
+		},
+		{
+			"bust": [
+				106,
+				110
+			],
+			"hip": [
+				114,
+				118
+			],
+			"label": "54",
+			"waist": [
+				94,
+				98
+			]
+		},
+		{
+			"bust": [
+				110,
+				114
+			],
+			"hip": [
+				118,
+				122
+			],
+			"label": "56",
+			"waist": [
+				98,
+				102
+			]
+		},
+		{
+			"bust": [
+				114,
+				118
+			],
+			"hip": [
+				122,
+				126
+			],
+			"label": "58",
+			"waist": [
+				102,
+				106
+			]
+		},
+		{
+			"bust": [
+				118,
+				122
+			],
+			"hip": [
+				126,
+				130
+			],
+			"label": "60",
+			"waist": [
+				106,
+				110
+			]
+		},
+		{
+			"bust": [
+				122,
+				126
+			],
+			"hip": [
+				130,
+				134
+			],
+			"label": "62",
+			"waist": [
+				110,
+				114
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "russische Norm 31399-2009 — standartgost.ru, allgosts.ru (der Schnitt durch Tabelle 3 bei 96 cm Brustumfang wurde direkt abgelesen)",
+				"en": "Russian standard 31399-2009 — standartgost.ru, allgosts.ru (the table-3 section at a 96 cm chest girth was read directly)",
+				"fr": "norme russe 31399-2009 — standartgost.ru, allgosts.ru (la coupe du tableau 3 à 96 cm de tour de poitrine a été lue directement)",
+				"ru": "российский стандарт 31399-2009 — standartgost.ru, allgosts.ru (сечение таблицы 3 при обхвате груди 96 см прочитано напрямую)"
+			},
+			"url": null
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "http://liza-textile.ru/tablitsa-razmerov/ — die Herrentabelle 46–62",
+				"en": "http://liza-textile.ru/tablitsa-razmerov/ — the men’s 46–62 table",
+				"fr": "http://liza-textile.ru/tablitsa-razmerov/ — le tableau homme 46–62",
+				"ru": "http://liza-textile.ru/tablitsa-razmerov/ — мужская таблица 46–62"
+			},
+			"url": "http://liza-textile.ru/tablitsa-razmerov/"
+		}
+	],
+	"system": "RU",
+	"unit": "cm",
+	"version": 1
+}

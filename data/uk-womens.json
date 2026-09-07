@@ -1,0 +1,250 @@
+{
+	"basis": "retail-convention",
+	"confidence": "high",
+	"contentHash": "d1e12ad9298ef9f8",
+	"cut": "womens",
+	"id": "uk-womens",
+	"provenance": {
+		"de": "Eine Norm gibt es nicht: BS 3666:1982 existiert, wird aber nicht benutzt. Die Zeilen sind der Median aus fünf veröffentlichten Händlertabellen, die Bänder die Mitten zwischen benachbarten Medianen. Bei ein und derselben Nenngröße erreicht die Streuung zwischen den Geschäften 9–10 cm an der Brust (UK 18: von 104 bis 113 cm) — das ist also ein Marktmittel und keine Messung. Die Umrechnung in die europäische Zahl (UK + 28) hält über sechs unabhängige Tabellen ohne eine einzige Ausnahme — die Körper hinter diesen Zahlen laufen jedoch auseinander: zum oberen Ende der Reihe hin fällt die britische Tabelle an der Brust etwa 5–6 cm größer aus als die europäische.",
+		"en": "There is no standard: BS 3666:1982 exists but nobody uses it. The rows are the median across five published retailer charts, and the bands are the midpoints between neighbouring medians. On one nominal size the spread between shops reaches 9–10 cm at the bust (UK 18: from 104 to 113 cm), so this is a market average, not a measurement. Converting to the European number (UK + 28) holds across six independent charts without a single exception — but the bodies behind those numbers diverge: towards the top of the run the British chart runs about 5–6 cm larger at the bust than the European one.",
+		"fr": "Il n’existe pas de norme : la BS 3666:1982 existe, mais personne ne l’applique. Les lignes sont la médiane de cinq tableaux de détaillants publiés, et les bandes sont les points médians entre médianes voisines. Pour une même taille nominale, l’écart entre magasins atteint 9 à 10 cm au tour de poitrine (UK 18 : de 104 à 113 cm) — c’est donc une moyenne de marché, pas une mesure. La conversion vers le numéro européen (UK + 28) tient sur six tableaux indépendants sans une seule exception — mais les corps derrière ces numéros divergent : vers le haut de la série, le tableau britannique donne un tour de poitrine environ 5 à 6 cm plus grand que l’européen.",
+		"ru": "Стандарта нет: BS 3666:1982 существует, но им не пользуются. Строки — медиана по пяти опубликованным таблицам ритейлеров, полосы — середины между соседними медианами. Разброс между магазинами на одном номинальном размере доходит до 9–10 см по груди (UK 18: от 104 до 113 см), так что это среднее по рынку, а не мерка. Пересчёт в европейский номер (UK + 28) сходится по шести независимым таблицам без единого исключения — но тела за этими номерами расходятся: к верху ряда британская сетка идёт крупнее европейской примерно на 5–6 см по груди."
+	},
+	"rows": [
+		{
+			"bust": [
+				74,
+				78
+			],
+			"hip": [
+				81.5,
+				85.5
+			],
+			"label": "4",
+			"waist": [
+				61.3,
+				62.8
+			]
+		},
+		{
+			"bust": [
+				78,
+				82
+			],
+			"hip": [
+				85.5,
+				89.5
+			],
+			"label": "6",
+			"waist": [
+				62.8,
+				64.8
+			]
+		},
+		{
+			"bust": [
+				82,
+				86.5
+			],
+			"hip": [
+				89.5,
+				93.8
+			],
+			"label": "8",
+			"waist": [
+				64.8,
+				68.5
+			]
+		},
+		{
+			"bust": [
+				86.5,
+				91.5
+			],
+			"hip": [
+				93.8,
+				99
+			],
+			"label": "10",
+			"waist": [
+				68.5,
+				73.5
+			]
+		},
+		{
+			"bust": [
+				91.5,
+				96.5
+			],
+			"hip": [
+				99,
+				104.5
+			],
+			"label": "12",
+			"waist": [
+				73.5,
+				78.5
+			]
+		},
+		{
+			"bust": [
+				96.5,
+				102
+			],
+			"hip": [
+				104.5,
+				110
+			],
+			"label": "14",
+			"waist": [
+				78.5,
+				84
+			]
+		},
+		{
+			"bust": [
+				102,
+				107.5
+			],
+			"hip": [
+				110,
+				115.5
+			],
+			"label": "16",
+			"waist": [
+				84,
+				90
+			]
+		},
+		{
+			"bust": [
+				107.5,
+				113
+			],
+			"hip": [
+				115.5,
+				120.8
+			],
+			"label": "18",
+			"waist": [
+				90,
+				96
+			]
+		},
+		{
+			"bust": [
+				113,
+				119
+			],
+			"hip": [
+				120.8,
+				126.5
+			],
+			"label": "20",
+			"waist": [
+				96,
+				101.5
+			]
+		},
+		{
+			"bust": [
+				119,
+				124
+			],
+			"hip": [
+				126.5,
+				131.8
+			],
+			"label": "22",
+			"waist": [
+				101.5,
+				106.8
+			]
+		},
+		{
+			"bust": [
+				124,
+				128
+			],
+			"hip": [
+				131.8,
+				135.5
+			],
+			"label": "24",
+			"waist": [
+				106.8,
+				112.8
+			]
+		},
+		{
+			"bust": [
+				128,
+				132
+			],
+			"hip": [
+				135.5,
+				138.5
+			],
+			"label": "26",
+			"waist": [
+				112.8,
+				119.3
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://www.asos.com/discover/size-charts/women/ — ASOS",
+				"en": "https://www.asos.com/discover/size-charts/women/ — ASOS",
+				"fr": "https://www.asos.com/discover/size-charts/women/ — ASOS",
+				"ru": "https://www.asos.com/discover/size-charts/women/ — ASOS"
+			},
+			"url": "https://www.asos.com/discover/size-charts/women/"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next",
+				"en": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next",
+				"fr": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next",
+				"ru": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides — Next"
+			},
+			"url": "https://zendesk.next.co.uk/hc/en-gb/articles/28403405069073-Women-s-Sizing-Guides"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing",
+				"en": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing",
+				"fr": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing",
+				"ru": "https://www.prettylittlething.com/pages/informational/size-guide — PrettyLittleThing"
+			},
+			"url": "https://www.prettylittlething.com/pages/informational/size-guide"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://www.fatface.com/size-guide — FatFace",
+				"en": "https://www.fatface.com/size-guide — FatFace",
+				"fr": "https://www.fatface.com/size-guide — FatFace",
+				"ru": "https://www.fatface.com/size-guide — FatFace"
+			},
+			"url": "https://www.fatface.com/size-guide"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://www.hobbs.com/size-guide — Hobbs",
+				"en": "https://www.hobbs.com/size-guide — Hobbs",
+				"fr": "https://www.hobbs.com/size-guide — Hobbs",
+				"ru": "https://www.hobbs.com/size-guide — Hobbs"
+			},
+			"url": "https://www.hobbs.com/size-guide"
+		}
+	],
+	"system": "UK",
+	"unit": "cm",
+	"version": 1
+}

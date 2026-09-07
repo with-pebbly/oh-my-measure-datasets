@@ -1,0 +1,245 @@
+{
+	"basis": "standard",
+	"confidence": "high",
+	"contentHash": "58bc8d21d4215aa5",
+	"cut": "womens",
+	"id": "ru-womens",
+	"provenance": {
+		"de": "Die Bänder sind das Indifferenzintervall der russischen Norm 31396-2009 (±2 cm um den Nennwert). Die Größenzahl sowie die Spalten für Taille und Hüfte sind die Handelskonvention „Größe = Brustumfang ÷ 2“, bestätigt durch zwei unabhängige Tabellen. Die sechs Fülligkeitsgruppen der Norm fallen im Handel zu einer zusammen: Hüfte = Brust + 8 cm.",
+		"en": "The bands are the Russian standard 31396-2009 indifference interval (±2 cm around the nominal value). The size number and the waist and hip columns are the retail convention, size = bust girth ÷ 2, confirmed by two independent charts. The Russian standard's six fullness groups collapse to one in retail: hips = bust + 8 cm.",
+		"fr": "Les bandes sont l’intervalle d’indifférence de la norme russe 31396-2009 (±2 cm autour de la valeur nominale). Le numéro de taille ainsi que les colonnes de tour de taille et de tour de hanches suivent la convention commerciale « taille = tour de poitrine ÷ 2 », confirmée par deux tableaux indépendants. Les six groupes de corpulence de la norme sont ramenés à un seul dans le commerce : tour de hanches = tour de poitrine + 8 cm.",
+		"ru": "Полосы — интервал безразличия российского стандарта 31396-2009 (±2 см вокруг типового значения). Номер размера и колонки талии и бёдер — розничная конвенция «размер = обхват груди ÷ 2», подтверждённая двумя независимыми таблицами. Полнотные группы стандарта (шесть) в рознице сведены к одной: бёдра = грудь + 8 см."
+	},
+	"rows": [
+		{
+			"bust": [
+				74,
+				78
+			],
+			"hip": [
+				82,
+				86
+			],
+			"label": "38",
+			"waist": [
+				56,
+				60
+			]
+		},
+		{
+			"bust": [
+				78,
+				82
+			],
+			"hip": [
+				86,
+				90
+			],
+			"label": "40",
+			"waist": [
+				60,
+				64
+			]
+		},
+		{
+			"bust": [
+				82,
+				86
+			],
+			"hip": [
+				90,
+				94
+			],
+			"label": "42",
+			"waist": [
+				64,
+				68
+			]
+		},
+		{
+			"bust": [
+				86,
+				90
+			],
+			"hip": [
+				94,
+				98
+			],
+			"label": "44",
+			"waist": [
+				68,
+				72
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"hip": [
+				98,
+				102
+			],
+			"label": "46",
+			"waist": [
+				72,
+				76
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"hip": [
+				102,
+				106
+			],
+			"label": "48",
+			"waist": [
+				76,
+				80
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"hip": [
+				106,
+				110
+			],
+			"label": "50",
+			"waist": [
+				80,
+				84
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"hip": [
+				110,
+				114
+			],
+			"label": "52",
+			"waist": [
+				84,
+				88
+			]
+		},
+		{
+			"bust": [
+				106,
+				110
+			],
+			"hip": [
+				114,
+				118
+			],
+			"label": "54",
+			"waist": [
+				88,
+				92
+			]
+		},
+		{
+			"bust": [
+				110,
+				114
+			],
+			"hip": [
+				118,
+				122
+			],
+			"label": "56",
+			"waist": [
+				92,
+				96
+			]
+		},
+		{
+			"bust": [
+				114,
+				118
+			],
+			"hip": [
+				122,
+				126
+			],
+			"label": "58",
+			"waist": [
+				96,
+				100
+			]
+		},
+		{
+			"bust": [
+				118,
+				122
+			],
+			"hip": [
+				126,
+				130
+			],
+			"label": "60",
+			"waist": [
+				100,
+				104
+			]
+		},
+		{
+			"bust": [
+				122,
+				126
+			],
+			"hip": [
+				130,
+				134
+			],
+			"label": "62",
+			"waist": [
+				104,
+				108
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "russische Norm 31396-2009 — standartgost.ru, allgosts.ru (Indifferenzintervall, Größenklassen, Fülligkeitsgruppen)",
+				"en": "Russian standard 31396-2009 — standartgost.ru, allgosts.ru (indifference interval, height grades, fullness groups)",
+				"fr": "norme russe 31396-2009 — standartgost.ru, allgosts.ru (intervalle d’indifférence, échelles de stature, groupes de corpulence)",
+				"ru": "российский стандарт 31396-2009 — standartgost.ru, allgosts.ru (интервал безразличия, ростовки, полнотные группы)"
+			},
+			"url": null
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://ramonki.ru/size-table — eine Umfangstabelle für die Größen 38–74",
+				"en": "https://ramonki.ru/size-table — a girth table for sizes 38–74",
+				"fr": "https://ramonki.ru/size-table — un tableau des tours pour les tailles 38–74",
+				"ru": "https://ramonki.ru/size-table — таблица обхватов для размеров 38–74"
+			},
+			"url": "https://ramonki.ru/size-table"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "http://liza-textile.ru/tablitsa-razmerov/ — die Formel „Größe = Brustumfang ÷ 2“ und eine unabhängige Tabelle 38–62",
+				"en": "http://liza-textile.ru/tablitsa-razmerov/ — the “size = bust girth ÷ 2” formula and an independent 38–62 table",
+				"fr": "http://liza-textile.ru/tablitsa-razmerov/ — la formule « taille = tour de poitrine ÷ 2 » et un tableau indépendant 38–62",
+				"ru": "http://liza-textile.ru/tablitsa-razmerov/ — формула «размер = обхват груди ÷ 2» и независимая таблица 38–62"
+			},
+			"url": "http://liza-textile.ru/tablitsa-razmerov/"
+		}
+	],
+	"system": "RU",
+	"unit": "cm",
+	"version": 1
+}

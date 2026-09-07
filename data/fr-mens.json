@@ -1,0 +1,160 @@
+{
+	"basis": "derived",
+	"confidence": "medium",
+	"contentHash": "c3331807fa826ef8",
+	"cut": "mens",
+	"id": "fr-mens",
+	"provenance": {
+		"de": "Die Herrenreihe deckt sich mit der kontinentalen: ein Sakko wird in Frankreich wie in Deutschland als Brustumfang ÷ 2 nummeriert. Eine eigene französische Herrenreihe steht hier nicht, weil die Geschäfte keine veröffentlichen.",
+		"en": "The men's run matches the continental one: a jacket is numbered as chest girth ÷ 2 in France as in Germany. There is no separate French men's run here because shops do not publish one.",
+		"fr": "La série hommes coïncide avec la série continentale : une veste est numérotée comme tour de poitrine ÷ 2, en France comme en Allemagne. Il n’y a pas ici de série française pour hommes séparée, car les boutiques n’en publient pas.",
+		"ru": "Мужской ряд совпадает с континентальным: пиджак нумеруется как обхват груди ÷ 2 и во Франции, и в Германии. Отдельного французского мужского ряда здесь нет, потому что магазины его не печатают."
+	},
+	"rows": [
+		{
+			"bust": [
+				82,
+				86
+			],
+			"label": "42",
+			"waist": [
+				68,
+				72
+			]
+		},
+		{
+			"bust": [
+				86,
+				90
+			],
+			"label": "44",
+			"waist": [
+				72,
+				76
+			]
+		},
+		{
+			"bust": [
+				90,
+				94
+			],
+			"label": "46",
+			"waist": [
+				76,
+				80
+			]
+		},
+		{
+			"bust": [
+				94,
+				98
+			],
+			"label": "48",
+			"waist": [
+				80,
+				84
+			]
+		},
+		{
+			"bust": [
+				98,
+				102
+			],
+			"label": "50",
+			"waist": [
+				84,
+				88
+			]
+		},
+		{
+			"bust": [
+				102,
+				106
+			],
+			"label": "52",
+			"waist": [
+				88,
+				92
+			]
+		},
+		{
+			"bust": [
+				106,
+				110
+			],
+			"label": "54",
+			"waist": [
+				92,
+				96
+			]
+		},
+		{
+			"bust": [
+				110,
+				114
+			],
+			"label": "56",
+			"waist": [
+				96,
+				100
+			]
+		},
+		{
+			"bust": [
+				114,
+				118
+			],
+			"label": "58",
+			"waist": [
+				100,
+				104
+			]
+		},
+		{
+			"bust": [
+				118,
+				122
+			],
+			"label": "60",
+			"waist": [
+				104,
+				108
+			]
+		}
+	],
+	"sources": [
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://en.wikipedia.org/wiki/Clothing_sizes — „Continental European women’s sizes“: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"en": "https://en.wikipedia.org/wiki/Clothing_sizes — “Continental European women's sizes”: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"fr": "https://en.wikipedia.org/wiki/Clothing_sizes — « Continental European women’s sizes » : IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6",
+				"ru": "https://en.wikipedia.org/wiki/Clothing_sizes — «Continental European women's sizes»: IT s = b/2, FR s = b/2 − 4, DE s = b/2 − 6"
+			},
+			"url": "https://en.wikipedia.org/wiki/Clothing_sizes"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "https://de.wikipedia.org/wiki/Konfektionsgröße — „die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen“ (DE 38 = FR 40 = IT 44)",
+				"en": "https://de.wikipedia.org/wiki/Konfektionsgröße — “die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen” (DE 38 = FR 40 = IT 44)",
+				"fr": "https://de.wikipedia.org/wiki/Konfektionsgröße — « die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen » (DE 38 = FR 40 = IT 44)",
+				"ru": "https://de.wikipedia.org/wiki/Konfektionsgröße — «die italienischen Größen sind um drei Werte höher als die deutschen, die französischen um einen» (DE 38 = FR 40 = IT 44)"
+			},
+			"url": "https://de.wikipedia.org/wiki/Konfektionsgröße"
+		},
+		{
+			"checkedOn": null,
+			"text": {
+				"de": "EN 13402-3 — über https://en.wikipedia.org/wiki/EN_13402 (die gemeinsame Maßleiter, aus der die EU-Tabelle abgeleitet ist)",
+				"en": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (the shared girth ladder the EU chart is derived from)",
+				"fr": "EN 13402-3 — via https://en.wikipedia.org/wiki/EN_13402 (l’échelle de tours commune dont dérive le tableau EU)",
+				"ru": "EN 13402-3 — через https://en.wikipedia.org/wiki/EN_13402 (общая лестница обхватов, из которой выведена сетка EU)"
+			},
+			"url": "https://en.wikipedia.org/wiki/EN_13402"
+		}
+	],
+	"system": "FR",
+	"unit": "cm",
+	"version": 2
+}

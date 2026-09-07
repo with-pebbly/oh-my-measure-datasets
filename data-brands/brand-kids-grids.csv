@@ -1,0 +1,118 @@
+grid_id,brand,brand_name,system,cut,key,label,alpha,measure,low,high,unit
+zarina-ru-kids,zarina,ZARINA,RU,,stature,116,,stature,113,119,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,116,,chest,56.5,59.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,116,,waist,54.3,55.8,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,116,,hip,61.5,64.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,116,,inseam,49.9,53.4,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,122,,stature,119,125,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,122,,chest,59.5,62.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,122,,waist,55.8,57.3,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,122,,hip,64.5,67.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,122,,inseam,53.4,56.9,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,128,,stature,125,131,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,128,,chest,62.5,65.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,128,,waist,57.3,58.8,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,128,,hip,67.5,70.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,128,,inseam,56.9,60.4,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,134,,stature,131,137,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,134,,chest,65.5,68.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,134,,waist,58.8,60.3,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,134,,hip,70.5,73.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,134,,inseam,60.4,63.9,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,140,,stature,137,143,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,140,,chest,68.5,71.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,140,,waist,60.3,61.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,140,,hip,73.5,76.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,140,,inseam,63.9,67.1,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,146,,stature,143,149,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,146,,chest,71.5,74.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,146,,waist,61.5,62.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,146,,hip,76.5,79.5,cm
+zarina-ru-kids,zarina,ZARINA,RU,,stature,146,,inseam,67.1,70.1,cm
+tezenis-kids,tezenis,Tezenis,,,age,2/3,,stature,92,98,cm
+tezenis-kids,tezenis,Tezenis,,,age,2/3,,chest,56,57,cm
+tezenis-kids,tezenis,Tezenis,,,age,2/3,,waist,53,54,cm
+tezenis-kids,tezenis,Tezenis,,,age,2/3,,hip,58,60,cm
+tezenis-kids,tezenis,Tezenis,,,age,2/3,,age,24,47,months
+tezenis-kids,tezenis,Tezenis,,,age,4/5,,stature,104,110,cm
+tezenis-kids,tezenis,Tezenis,,,age,4/5,,chest,58,59,cm
+tezenis-kids,tezenis,Tezenis,,,age,4/5,,waist,55,56,cm
+tezenis-kids,tezenis,Tezenis,,,age,4/5,,hip,62,64,cm
+tezenis-kids,tezenis,Tezenis,,,age,4/5,,age,48,71,months
+tezenis-kids,tezenis,Tezenis,,,age,6/7,S/M,stature,116,122,cm
+tezenis-kids,tezenis,Tezenis,,,age,6/7,S/M,chest,60,62,cm
+tezenis-kids,tezenis,Tezenis,,,age,6/7,S/M,waist,57,58,cm
+tezenis-kids,tezenis,Tezenis,,,age,6/7,S/M,hip,66,68,cm
+tezenis-kids,tezenis,Tezenis,,,age,6/7,S/M,age,72,95,months
+tezenis-kids,tezenis,Tezenis,,,age,8/9,M/L,stature,128,134,cm
+tezenis-kids,tezenis,Tezenis,,,age,8/9,M/L,chest,64,66,cm
+tezenis-kids,tezenis,Tezenis,,,age,8/9,M/L,waist,59,60,cm
+tezenis-kids,tezenis,Tezenis,,,age,8/9,M/L,hip,70,72,cm
+tezenis-kids,tezenis,Tezenis,,,age,8/9,M/L,age,96,119,months
+tezenis-kids,tezenis,Tezenis,,,age,10/11,,stature,140,146,cm
+tezenis-kids,tezenis,Tezenis,,,age,10/11,,chest,68,72,cm
+tezenis-kids,tezenis,Tezenis,,,age,10/11,,waist,61,63,cm
+tezenis-kids,tezenis,Tezenis,,,age,10/11,,hip,74,78,cm
+tezenis-kids,tezenis,Tezenis,,,age,10/11,,age,120,143,months
+tezenis-kids,tezenis,Tezenis,,,age,12/13,,stature,152,158,cm
+tezenis-kids,tezenis,Tezenis,,,age,12/13,,chest,76,80,cm
+tezenis-kids,tezenis,Tezenis,,,age,12/13,,waist,65,67,cm
+tezenis-kids,tezenis,Tezenis,,,age,12/13,,hip,82,86,cm
+tezenis-kids,tezenis,Tezenis,,,age,12/13,,age,144,167,months
+gap-us-kids-toddler,gap,GAP,US,,age,12-18 mos,,stature,74,79,cm
+gap-us-kids-toddler,gap,GAP,US,,age,12-18 mos,,age,12,18,months
+gap-us-kids-toddler,gap,GAP,US,,age,12-18 mos,,weight,10,12,kg
+gap-us-kids-toddler,gap,GAP,US,,age,18-24 mos,,stature,79,84,cm
+gap-us-kids-toddler,gap,GAP,US,,age,18-24 mos,,age,18,24,months
+gap-us-kids-toddler,gap,GAP,US,,age,18-24 mos,,weight,12,14,kg
+gap-us-kids-toddler,gap,GAP,US,,age,2 yrs,,stature,84,91,cm
+gap-us-kids-toddler,gap,GAP,US,,age,2 yrs,,age,24,36,months
+gap-us-kids-toddler,gap,GAP,US,,age,2 yrs,,weight,14,15,kg
+gap-us-kids-toddler,gap,GAP,US,,age,3 yrs,,stature,91,99,cm
+gap-us-kids-toddler,gap,GAP,US,,age,3 yrs,,age,36,48,months
+gap-us-kids-toddler,gap,GAP,US,,age,3 yrs,,weight,15,16,kg
+gap-us-kids-toddler,gap,GAP,US,,age,4 yrs,,stature,99,107,cm
+gap-us-kids-toddler,gap,GAP,US,,age,4 yrs,,age,48,60,months
+gap-us-kids-toddler,gap,GAP,US,,age,4 yrs,,weight,16,18,kg
+gap-us-kids-toddler,gap,GAP,US,,age,5 yrs,,stature,107,114,cm
+gap-us-kids-toddler,gap,GAP,US,,age,5 yrs,,age,60,72,months
+gap-us-kids-toddler,gap,GAP,US,,age,5 yrs,,weight,18,21,kg
+gap-us-kids-toddler,gap,GAP,US,,age,6 yrs,,stature,114,121,cm
+gap-us-kids-toddler,gap,GAP,US,,age,6 yrs,,age,72,84,months
+gap-us-kids-toddler,gap,GAP,US,,age,6 yrs,,weight,20,24,kg
+gap-us-kids-girls,gap,GAP,US,,code,XS,,stature,99,114,cm
+gap-us-kids-girls,gap,GAP,US,,code,XS,,chest,58,61,cm
+gap-us-kids-girls,gap,GAP,US,,code,XS,,weight,15,20,kg
+gap-us-kids-girls,gap,GAP,US,,code,S,,stature,114,134,cm
+gap-us-kids-girls,gap,GAP,US,,code,S,,chest,64,66,cm
+gap-us-kids-girls,gap,GAP,US,,code,S,,weight,20,29,kg
+gap-us-kids-girls,gap,GAP,US,,code,M,,stature,134,137,cm
+gap-us-kids-girls,gap,GAP,US,,code,M,,chest,69,69,cm
+gap-us-kids-girls,gap,GAP,US,,code,M,,weight,29,33,kg
+gap-us-kids-girls,gap,GAP,US,,code,L,,stature,137,145,cm
+gap-us-kids-girls,gap,GAP,US,,code,L,,chest,72,72,cm
+gap-us-kids-girls,gap,GAP,US,,code,L,,weight,33,37,kg
+gap-us-kids-girls,gap,GAP,US,,code,XL,,stature,145,152,cm
+gap-us-kids-girls,gap,GAP,US,,code,XL,,chest,76,76,cm
+gap-us-kids-girls,gap,GAP,US,,code,XL,,weight,37,42,kg
+gap-us-kids-girls,gap,GAP,US,,code,XXL,,stature,152,163,cm
+gap-us-kids-girls,gap,GAP,US,,code,XXL,,chest,80,84,cm
+gap-us-kids-girls,gap,GAP,US,,code,XXL,,weight,42,52,kg
+gap-us-kids-boys,gap,GAP,US,,code,XS,,stature,99,114,cm
+gap-us-kids-boys,gap,GAP,US,,code,XS,,chest,58,61,cm
+gap-us-kids-boys,gap,GAP,US,,code,XS,,weight,15,22,kg
+gap-us-kids-boys,gap,GAP,US,,code,S,,stature,114,130,cm
+gap-us-kids-boys,gap,GAP,US,,code,S,,chest,64,66,cm
+gap-us-kids-boys,gap,GAP,US,,code,S,,weight,21,28,kg
+gap-us-kids-boys,gap,GAP,US,,code,M,,stature,130,137,cm
+gap-us-kids-boys,gap,GAP,US,,code,M,,chest,69,69,cm
+gap-us-kids-boys,gap,GAP,US,,code,M,,weight,28,33,kg
+gap-us-kids-boys,gap,GAP,US,,code,L,,stature,137,145,cm
+gap-us-kids-boys,gap,GAP,US,,code,L,,chest,71,71,cm
+gap-us-kids-boys,gap,GAP,US,,code,L,,weight,33,38,kg
+gap-us-kids-boys,gap,GAP,US,,code,XL,,stature,145,152,cm
+gap-us-kids-boys,gap,GAP,US,,code,XL,,chest,74,74,cm
+gap-us-kids-boys,gap,GAP,US,,code,XL,,weight,39,44,kg
+gap-us-kids-boys,gap,GAP,US,,code,XXL,,stature,152,170,cm
+gap-us-kids-boys,gap,GAP,US,,code,XXL,,chest,76,76,cm
+gap-us-kids-boys,gap,GAP,US,,code,XXL,,weight,44,54,kg

@@ -1,0 +1,257 @@
+{
+	"description": "496 adult size charts published by 132 clothing brands (EU, FR, INT, IT, JP, RU, UK, US), plus 5 brand children’s ladders — transcribed from each brand’s own size guide and normalised into long-format tables of 9132 and 117 rows. The children’s ladders are keyed by stature, age or a house code and carry their unit per row, because a rung may state height in centimetres, age in months and weight in kilograms at once. Every chart names its source URL and capture date in passports.json. NO LICENCE IS GRANTED AND NONE IS CLAIMED: the numbers are facts about goods a brand sells, not our work — see RIGHTS.txt. Published separately from the CC BY-SA 4.0 dataset at /dataset/ for exactly that reason.",
+	"homepage": "https://ohmymeasure.pebbly.space/brands",
+	"keywords": [
+		"size chart",
+		"clothing sizes",
+		"apparel",
+		"brands",
+		"body measurements",
+		"retail",
+		"eu sizes",
+		"fr sizes",
+		"int sizes",
+		"it sizes",
+		"jp sizes",
+		"ru sizes",
+		"uk sizes",
+		"us sizes"
+	],
+	"name": "oh-my-measure-brand-size-charts",
+	"resources": [
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:02816c0ace56db6c8fdb6be15655c9716f9b02c4cb11b2e0775c0a4f0fc1d9a5",
+			"mediatype": "text/csv",
+			"name": "brand-grids",
+			"path": "brand-grids.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Идентификатор таблицы; связь с passports.json",
+						"name": "grid_id",
+						"type": "string"
+					},
+					{
+						"description": "Slug бренда; связь с brands.csv",
+						"name": "brand",
+						"type": "string"
+					},
+					{
+						"description": "Печатаемое имя бренда",
+						"name": "brand_name",
+						"type": "string"
+					},
+					{
+						"description": "Алфавит меток таблицы (EU, UK, US, INT…)",
+						"name": "system",
+						"type": "string"
+					},
+					{
+						"description": "Ряд, для которого напечатана таблица",
+						"name": "cut",
+						"type": "string"
+					},
+					{
+						"description": "Метка размера, как в источнике",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Буквенный эквивалент, если источник печатает его рядом",
+						"name": "alpha",
+						"type": "string"
+					},
+					{
+						"description": "Какая мерка: bust, waist, hip, thigh",
+						"name": "measure",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы обхвата, см",
+						"name": "low_cm",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы обхвата, см",
+						"name": "high_cm",
+						"type": "number"
+					}
+				]
+			}
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:3d0e4ebf3d6b6c3f2b1cc1637e53f6912c3017b47f5a92407af723147fc762c8",
+			"mediatype": "text/csv",
+			"name": "brands",
+			"path": "brands.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Slug бренда",
+						"name": "brand",
+						"type": "string"
+					},
+					{
+						"description": "Печатаемое имя",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"description": "Владелец или группа компаний",
+						"name": "group",
+						"type": "string"
+					},
+					{
+						"description": "Страна происхождения, ISO 3166-1 alpha-2",
+						"name": "origin_code",
+						"type": "string"
+					},
+					{
+						"description": "Сайт бренда",
+						"name": "homepage",
+						"type": "string"
+					},
+					{
+						"description": "Адрес гида размеров, с которого снята таблица",
+						"name": "size_guide",
+						"type": "string"
+					},
+					{
+						"description": "Алфавиты, которые бренд печатает, через пробел",
+						"name": "systems",
+						"type": "string"
+					},
+					{
+						"description": "Сколько таблиц бренда в выгрузке",
+						"name": "grid_count",
+						"type": "integer"
+					}
+				]
+			}
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:46f90dfd2f363e25e8e9c35b89db62ac5e5e2ab847cae272828da2f877f064ea",
+			"mediatype": "text/csv",
+			"name": "brand-kids-grids",
+			"path": "brand-kids-grids.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Идентификатор лестницы; связь с passports.json",
+						"name": "grid_id",
+						"type": "string"
+					},
+					{
+						"description": "Slug бренда; связь с brands.csv",
+						"name": "brand",
+						"type": "string"
+					},
+					{
+						"description": "Печатаемое имя бренда",
+						"name": "brand_name",
+						"type": "string"
+					},
+					{
+						"description": "Алфавит меток; пусто у возрастной лестницы — она не принадлежит стране",
+						"name": "system",
+						"type": "string"
+					},
+					{
+						"description": "Ряд, для которого напечатана лестница; пусто у унисекс",
+						"name": "cut",
+						"type": "string"
+					},
+					{
+						"description": "Какой столбец несёт размер: stature, age или code",
+						"name": "key",
+						"type": "string"
+					},
+					{
+						"description": "Метка ступени, как в источнике",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Буквенный эквивалент, если источник печатает его рядом",
+						"name": "alpha",
+						"type": "string"
+					},
+					{
+						"description": "Какая мерка: stature, chest, waist, hip, inseam, age, weight",
+						"name": "measure",
+						"type": "string"
+					},
+					{
+						"description": "Нижняя граница полосы, в единице столбца unit",
+						"name": "low",
+						"type": "number"
+					},
+					{
+						"description": "Верхняя граница полосы, в единице столбца unit",
+						"name": "high",
+						"type": "number"
+					},
+					{
+						"description": "Единица ЭТОЙ строки: cm, months или kg",
+						"name": "unit",
+						"type": "string"
+					}
+				]
+			}
+		},
+		{
+			"encoding": "utf-8",
+			"format": "csv",
+			"hash": "sha256:b9338171aa925518466210583d3b10d9a4a929e29fbe8114e1b71b25fe58ffdc",
+			"mediatype": "text/csv",
+			"name": "brand-kids-aka",
+			"path": "brand-kids-aka.csv",
+			"schema": {
+				"fields": [
+					{
+						"description": "Лестница, к которой относится ступень",
+						"name": "grid_id",
+						"type": "string"
+					},
+					{
+						"description": "Ступень, как её называет сама лестница",
+						"name": "label",
+						"type": "string"
+					},
+					{
+						"description": "Соседний алфавит: UK, JP, INT…",
+						"name": "system",
+						"type": "string"
+					},
+					{
+						"description": "Как ту же ступень называет этот алфавит — равенство, утверждённое источником",
+						"name": "aka_label",
+						"type": "string"
+					}
+				]
+			}
+		},
+		{
+			"encoding": "utf-8",
+			"format": "json",
+			"hash": "sha256:4a5dbfd801f46e5462111b44d8c45cf66a7d1f692c69d72f17eced5e7b2406b9",
+			"mediatype": "application/json",
+			"name": "passports",
+			"path": "passports.json"
+		}
+	],
+	"rights": "No licence granted, none claimed. The numbers are facts about goods each brand sells; they are not the publisher’s work. Sources and capture dates are named per chart in passports.json. See RIGHTS.txt.",
+	"sources": [
+		{
+			"path": "https://ohmymeasure.pebbly.space/brands",
+			"title": "oh-my-measure"
+		}
+	],
+	"title": "oh-my-measure brand size charts — transcribed from the brands’ own published guides"
+}
